@@ -15,6 +15,7 @@ Local FastAPI proof of concept for Gemma 4 E2B image labeling with hard decode-t
 - `uv` for project management and execution
 - `FastAPI` for the web app
 - `transformers` + `torch` for local Gemma inference
+- `llama.cpp` `llama-server` for local GGUF inference
 - custom `LogitsProcessor` + token tries for decode-time masking
 
 ## Setup
@@ -39,6 +40,44 @@ Local FastAPI proof of concept for Gemma 4 E2B image labeling with hard decode-t
    ```
 
 5. Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+## Environment file
+
+An example config lives at `.env.example`.
+
+- `transformers` backend: set `GEMMA_LABELING_BACKEND=transformers` and point `GEMMA_LABELING_MODEL_ID` at a Hugging Face model ID or a local Transformers checkpoint directory.
+- `gguf` backend: set `GEMMA_LABELING_BACKEND=gguf`, point `GEMMA_LABELING_MODEL_ID` at a local `.gguf` file, and set `GEMMA_LABELING_GGUF_MMPROJ_PATH` to the matching multimodal projector `.gguf`.
+
+## Running with GGUF
+
+GGUF is not loaded through Transformers. The app switches to a llama.cpp-backed runtime when `GEMMA_LABELING_MODEL_ID` ends in `.gguf` or when `GEMMA_LABELING_BACKEND=gguf`.
+
+This app is multimodal, so a Gemma 4 GGUF needs both:
+
+- the main model file, for example `gemma-4-E4B-it-Q4_K_M.gguf`
+- the projector file, for example `mmproj-F16.gguf`
+
+The GGUF backend talks to `llama-server` at `GEMMA_LABELING_LLAMA_SERVER_URL`. By default it can auto-start `llama-server` if `GEMMA_LABELING_LLAMA_SERVER_AUTO_START=1` and `GEMMA_LABELING_LLAMA_SERVER_BIN` is available on `PATH`.
+
+Windows example:
+
+```powershell
+winget install llama.cpp
+```
+
+Example `.env` block for a local GGUF:
+
+```env
+GEMMA_LABELING_BACKEND=gguf
+GEMMA_LABELING_MODEL_ID=C:\models\gemma-4-E4B-it-Q4_K_M.gguf
+GEMMA_LABELING_GGUF_MMPROJ_PATH=C:\models\mmproj-F16.gguf
+GEMMA_LABELING_LLAMA_SERVER_BIN=llama-server
+GEMMA_LABELING_LLAMA_SERVER_AUTO_START=1
+GEMMA_LABELING_LLAMA_SERVER_PORT=8081
+GEMMA_LABELING_LLAMA_SERVER_N_GPU_LAYERS=999
+```
+
+In GGUF mode, the constrained path uses llama.cpp grammars one tag at a time: each step allows only the currently legal canonical tags plus `<END>`. That preserves no-repeat and unlock semantics without relying on Transformers logits processors.
 
 ## Project layout
 
