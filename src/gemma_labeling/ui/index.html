@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gemma Labeling PoC</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <p class="eyebrow">Gemma 4 E2B Constrained Decoding</p>
+        <h1>Booru-style image labeling with a stateful tag decoder.</h1>
+        <p class="lede">
+          Compare unconstrained generation against a token-masked finite-state machine
+          that enforces canonical comma-separated tags, unlock rules, and no repeats.
+        </p>
+      </section>
+
+      <section class="panel controls">
+        <form id="label-form">
+          <div class="grid">
+            <label class="field">
+              <span>Image</span>
+              <input name="image" type="file" accept="image/*" required />
+            </label>
+            <label class="field">
+              <span>Hint</span>
+              <input
+                name="hint"
+                type="text"
+                placeholder="Optional steer like anime girl at sunset"
+              />
+            </label>
+            <label class="field">
+              <span>Max tags</span>
+              <input name="max_tags" type="number" min="1" max="24" value="12" />
+            </label>
+            <label class="field">
+              <span>Max new tokens</span>
+              <input name="max_new_tokens" type="number" min="8" max="128" value="48" />
+            </label>
+            <label class="field">
+              <span>Temperature</span>
+              <input
+                name="temperature"
+                type="number"
+                min="0"
+                max="1"
+                step="0.1"
+                value="0"
+              />
+            </label>
+          </div>
+
+          <label class="field">
+            <span>System prompt</span>
+            <textarea name="system_prompt" rows="4"></textarea>
+          </label>
+
+          <label class="field">
+            <span>User prompt</span>
+            <textarea name="user_prompt" rows="4"></textarea>
+          </label>
+
+          <div class="actions">
+            <button type="submit">Run baseline and constrained decode</button>
+            <p id="status" class="status">Loading taxonomy...</p>
+          </div>
+        </form>
+      </section>
+
+      <section class="panel results">
+        <div class="result-column">
+          <h2>Baseline</h2>
+          <pre id="baseline-raw" class="raw"></pre>
+          <div id="baseline-tags" class="chips"></div>
+        </div>
+        <div class="result-column">
+          <h2>Constrained</h2>
+          <pre id="constrained-raw" class="raw"></pre>
+          <div id="constrained-tags" class="chips"></div>
+        </div>
+      </section>
+
+      <section class="panel diagnostics">
+        <div class="diag-block">
+          <h2>Constraint Trace</h2>
+          <ol id="trace-list" class="trace-list"></ol>
+        </div>
+        <div class="diag-block">
+          <h2>Final State</h2>
+          <pre id="final-state" class="raw"></pre>
+        </div>
+        <div class="diag-block">
+          <h2>Masking Stats</h2>
+          <pre id="token-stats" class="raw"></pre>
+        </div>
+      </section>
+
+      <section class="panel taxonomy">
+        <div class="taxonomy-header">
+          <h2>Curated Taxonomy</h2>
+          <p id="taxonomy-summary"></p>
+        </div>
+        <div id="taxonomy-grid" class="taxonomy-grid"></div>
+      </section>
+    </main>
+
+    <script src="/static/app.js" type="module"></script>
+  </body>
+</html>

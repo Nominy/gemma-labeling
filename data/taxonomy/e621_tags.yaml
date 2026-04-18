@@ -1,0 +1,6885 @@
+metadata:
+  source: e621
+  fetched_at: '2026-04-18T01:03:55.813375+00:00'
+  user_agent: gemma-labeling-poc/0.1 (by openai-codex)
+  category_limits:
+    general: 256
+    species: 128
+    meta: 48
+    character: 32
+    copyright: 24
+    lore: 16
+  tag_count: 504
+  base_url: https://e621.net
+tags:
+- canonical: anthro
+  category: general
+  aliases:
+  - adult_anthro
+  - anhtro
+  - antho
+  - anthro_dog
+  - anthro_feline
+  - anthro_horse
+  - anthro_kissed
+  - anthro_kissing
+  - anthro_on_non-humanoid_creature
+  - anthro_only
+  - anthro_reptile
+  - anthro_rodent
+  - anthro_scalie
+  - anthro_student
+  - anthro_teacher
+  - anthro_wolf
+  - anthroart
+  - anthrofur
+  - anthromorph
+  - anthromorphic
+  - anthropomorph
+  - anthropomorphic
+  - anthros
+  - antrho
+  - antro
+  - furry_anthro
+  - furryanthro
+  - on_anthro
+  implications: []
+- canonical: male
+  category: general
+  aliases:
+  - 1_boy
+  - 1_guys
+  - 1boy
+  - 1guy
+  - 1male
+  - 2_boys
+  - 2_guys
+  - 2boys
+  - 2guys
+  - 3_boys
+  - 3_guys
+  - 3boys
+  - 3guys
+  - 4_boys
+  - 4_guys
+  - 4boys
+  - 4guys
+  - 5boys
+  - 5guys
+  - adult_male
+  - bad_boy
+  - big_boy
+  - bishonen
+  - boi
+  - boy
+  - boys
+  - bunny_boy
+  - dude
+  - four_boys
+  - four_guys
+  - furry_boys
+  - furry_male
+  - gay_male
+  - gen:male
+  - guys
+  - m
+  - m/solo
+  - male/femboy
+  - male/solo
+  - male_animal
+  - male_ass
+  - male_feet
+  - male_kissed
+  - male_kissing
+  - male_kissing_anthro
+  - male_non-humanoid_creature
+  - male_on_femboy
+  - male_on_monster
+  - male_on_robot
+  - male_only
+  - male_presenting
+  - male_presenting_anus
+  - male_rimming_ambiguous
+  - male_rimming_feral
+  - male_solo
+  - male_student
+  - male_teacher
+  - male_top_anthro_bottom
+  - male_werewolf
+  - malefur
+  - males
+  - males_only
+  - man
+  - men
+  - msolo
+  - multiple_boys
+  - multiple_guys
+  - multiple_males
+  - one_boy
+  - one_guy
+  - only_male
+  - only_man
+  - only_one_male
+  - single_male
+  - sole_male
+  - solo/male
+  - solo_male
+  - three_boys
+  - three_guys
+  - two_boys
+  - two_guys
+  implications: []
+- canonical: female
+  category: general
+  aliases:
+  - 1_girl
+  - 1girl
+  - 1girls
+  - 2_girl
+  - 2_girls
+  - 2girl
+  - 2girls
+  - 3_girl
+  - 3_girls
+  - 3girl
+  - 3girls
+  - 4_girl
+  - 4_girls
+  - 4girl
+  - 4girls
+  - 5_girls
+  - 7girls
+  - adult_female
+  - all_female
+  - babe
+  - babes
+  - bad_girl
+  - best_girl
+  - bitch
+  - bunny_girl
+  - doe
+  - f
+  - f/solo
+  - feamle
+  - femael
+  - female/femboy
+  - female/solo
+  - female_accomplice
+  - female_cat
+  - female_dominating_anthro
+  - female_dry_humping_male
+  - female_kissing
+  - female_non-humanoid_creature
+  - female_on_femboy
+  - female_on_monster
+  - female_only
+  - female_presenting
+  - female_solo
+  - female_student
+  - female_teacher
+  - female_wolf
+  - femalefur
+  - females
+  - females_only
+  - fembeast
+  - fmale
+  - four_girl
+  - four_girls
+  - fsolo
+  - furry_female
+  - furry_sona_female
+  - furryfemale
+  - gal
+  - gen:female
+  - girl
+  - girls
+  - many_girls
+  - multiple_females
+  - multiple_girls
+  - one_girl
+  - only_one_female
+  - shewolf
+  - single_female
+  - solo_female
+  - three_girl
+  - three_girls
+  - two_girl
+  - two_girls
+  - woman
+  - women
+  implications: []
+- canonical: solo
+  category: general
+  aliases:
+  - alone
+  - single
+  implications: []
+- canonical: genitals
+  category: general
+  aliases:
+  - copy-paste_genitalia
+  - copy_paste_genitalia
+  - exposed_genital
+  - exposed_genitalia
+  - exposed_genitals
+  - external_sex_organ
+  - external_sex_organs
+  - female_genital
+  - female_genitalia
+  - female_genitals
+  - genetalia
+  - genita
+  - genital
+  - genitalia
+  - genitals.
+  - gentials
+  - gonads
+  - male_genetalia
+  - male_genital
+  - male_genitalia
+  - male_genitals
+  - private_part
+  - private_parts
+  - privates
+  - reasonably_sized_genitals
+  implications: []
+- canonical: clothing
+  category: general
+  aliases:
+  - (clothing)
+  - clothes
+  - clothings
+  - cloths
+  - cloting
+  - cothes
+  - cute_clothing
+  - girly_clothing
+  - traditional_clothing
+  implications: []
+- canonical: hair
+  category: general
+  aliases:
+  - anime_hair
+  - colorful_hair
+  - gair
+  - girly_hair
+  - hair_style
+  - hairdo
+  - hairstyle
+  - in_hair
+  - neon_hair
+  - stylish_hair
+  implications: []
+- canonical: fur
+  category: general
+  aliases:
+  - furred
+  - furred_marine
+  - monochrome_fur
+  - uncolored_fur
+  implications: []
+- canonical: breasts
+  category: general
+  aliases:
+  - 2_breasts
+  - average_breasts
+  - boob
+  - boobie
+  - boobies
+  - boobs
+  - bosom
+  - breast
+  - breast_outline
+  - breasts_outline
+  - breasts_outside
+  - breats
+  - brest
+  - brests
+  - chest_breasts
+  - front_breasts
+  - inherited_breasts
+  - massive_breasts
+  - nockers
+  - oppai
+  - pechos
+  - tetas
+  - tiddie
+  - tiddies
+  - tiddy
+  - tits
+  - tittie
+  - titties
+  - titty
+  - torpedo_tits
+  - wandering_boob
+  implications: []
+- canonical: duo
+  category: general
+  aliases:
+  - dup
+  - pair
+  - two_characters
+  implications: []
+- canonical: penis
+  category: general
+  aliases:
+  - alien_cock
+  - alien_dick
+  - alien_dong
+  - alien_penis
+  - avian_penis
+  - beautiful_penis
+  - cock
+  - cocks
+  - colored_penis
+  - custom_penis
+  - cute_penis
+  - dick
+  - dicks
+  - dong
+  - draconic_cock
+  - draconic_penis
+  - dragon_cock
+  - dragon_penis
+  - epnis
+  - exposed_penis
+  - inherited_penis
+  - insect_penis
+  - lizard_penis
+  - massive_cock
+  - massive_penis
+  - member
+  - neon_penis
+  - peen
+  - peins
+  - pene
+  - penes
+  - peni
+  - penii
+  - penises
+  - pennis
+  - pensi
+  - penus
+  - phallus
+  - pneis
+  - "p\xEAnis"
+  - reptile_penis
+  - schlong
+  - shaft
+  implications:
+  - genitals
+- canonical: tail
+  category: general
+  aliases:
+  - tail_tip
+  - tailed
+  implications: []
+- canonical: bodily_fluids
+  category: general
+  aliases:
+  - bio_fluid
+  - bio_fluids
+  - biofluid
+  - biofluids
+  - bodily_fluid
+  - bodily_waste
+  - body_fluid
+  - body_fluids
+  - body_waste
+  - excreta
+  - excretion
+  - excretory_product
+  - excretory_waste
+  - human_waste
+  - human_waste_matter
+  - secretion
+  - secretions
+  - waste_matter
+  implications: []
+- canonical: nipples
+  category: general
+  aliases:
+  - male_nipples
+  - monotone_nipples
+  - niples
+  - nippels
+  - nippes
+  - nipple
+  - nippls
+  - nupples
+  - wandering_nipple
+  implications: []
+- canonical: text
+  category: general
+  aliases:
+  - colored_text
+  - coloured_text
+  - moonspeak
+  - texts
+  - words
+  implications: []
+- canonical: simple_background
+  category: general
+  aliases:
+  - basic_background
+  - basic_bg
+  - blank_background
+  - blank_bg
+  - chromatic_background
+  - chromatic_bg
+  - empty_background
+  - empty_bg
+  - flat_background
+  - flat_bg
+  - generic_background
+  - generic_bg
+  - lazy_background
+  - minimal_background
+  - minimal_bg
+  - minimalist_background
+  - minimalist_bg
+  - monochromatic_background
+  - monochromatic_bg
+  - monochrome_background
+  - monochrome_bg
+  - plain_backgorund
+  - plain_backgroudn
+  - plain_background
+  - plain_bg
+  - simple_backgorund
+  - simple_backgroudn
+  - simple_backround
+  - simple_bg
+  - simplistic_background
+  - simplistic_bg
+  - solid_background
+  - solid_bg
+  - stoopidly_simple_background
+  - stoopidly_simple_bg
+  - undetailed_background
+  - undetailed_bg
+  - very_simple_background
+  - very_simple_bg
+  implications: []
+- canonical: nude
+  category: general
+  aliases:
+  - bareness
+  - butt_naked
+  - clothes_off
+  - completely_naked
+  - completely_nude
+  - full_nudity
+  - nacked
+  - naked
+  - no_clothes
+  - nude_student
+  - nude_teacher
+  - nudes
+  - nudity
+  - sfw_nudity
+  - unclothed
+  - wholesome_nudity
+  implications: []
+- canonical: clothed
+  category: general
+  aliases:
+  - cloted
+  - clothed_non-humanoid_creature
+  - clothed_student
+  - clothed_teacher
+  - cltohed
+  - dressed
+  - half-dressed
+  - half_dressed
+  - wearing_clothes
+  implications:
+  - clothing
+- canonical: balls
+  category: general
+  aliases:
+  - ball_sack
+  - balls_under
+  - ballsac
+  - ballsack
+  - bals
+  - human_ball
+  - human_ball_sack
+  - human_balls
+  - human_ballsack
+  - human_scrotum
+  - human_testes
+  - human_testicle
+  - human_testicles
+  - humanoid_ball
+  - humanoid_ball_sack
+  - humanoid_balls
+  - humanoid_ballsack
+  - humanoid_scrotum
+  - humanoid_testes
+  - humanoid_testicle
+  - humanoid_testicles
+  - scrotum
+  - testes
+  - testicals
+  - testicle
+  - testicles
+  implications:
+  - genitals
+- canonical: smile
+  category: general
+  aliases:
+  - :)
+  - big_smile
+  - 'c:'
+  - cute_smile
+  - smil
+  - smiling
+  - smilling
+  implications: []
+- canonical: butt
+  category: general
+  aliases:
+  - arse
+  - ass
+  - ass_cheek
+  - ass_cheeks
+  - asses
+  - average_butt
+  - backside
+  - behind
+  - bootie
+  - booty
+  - booty_cheek
+  - booty_cheeks
+  - bootycheek
+  - bootycheeks
+  - bootylicious
+  - bottom
+  - bum
+  - bunny_buns
+  - bunny_butt
+  - but
+  - buts
+  - butt_cheek
+  - butt_cheeks
+  - butt_crack
+  - butt_outline
+  - buttcheek
+  - buttcheeks
+  - buttcrack
+  - buttock
+  - buttocks
+  - butts
+  - culo
+  - cute_butt
+  - dat_ass
+  - dat_plot
+  - datt_ass
+  - derriere
+  - "derri\xE8re"
+  - furry_ass
+  - furry_butt
+  - gluteus_maximus
+  - heinie
+  - heiny
+  - hindquarters
+  - hunkers
+  - inherited_butt
+  - keester
+  - keister
+  - posterior
+  - rear
+  - rear_end
+  - rears
+  - robutt
+  - rump
+  - rumps
+  - tail_end
+  - tight_ass
+  - toosh
+  - tooshie
+  - tooshy
+  - tushie
+  - tushy
+  implications: []
+- canonical: genital_fluids
+  category: general
+  aliases:
+  - genital_fluid
+  - genitalia_fluid
+  - genitalia_fluids
+  implications:
+  - bodily_fluids
+- canonical: sex
+  category: general
+  aliases:
+  - coital
+  - coitus
+  - consensual_sex
+  - couple_sex
+  - fuck
+  - fucked
+  - fucking
+  - gay_sex
+  - getting_fucked
+  - having_sex
+  - indoors_sex
+  - intense_sex
+  - inter_course
+  - intercourse
+  - lovemaking
+  - making_love
+  - mating
+  - sexo
+  - sexual_inter_course
+  - sexual_intercourse
+  - soft_sex
+  - straight_sex
+  - unprotected
+  - unprotected_sex
+  - yiff
+  - yiffing
+  implications: []
+- canonical: blush
+  category: general
+  aliases:
+  - blusg
+  - blushed
+  - blushes
+  - blushing
+  - blushing_female
+  - blushing_male
+  - facial_blush
+  implications: []
+- canonical: open_mouth
+  category: general
+  aliases:
+  - maw
+  - maws
+  - mouth_open
+  - open-mouth
+  - open_maw
+  - open_moth
+  - open_muzzle
+  - opened_mouth
+  implications: []
+- canonical: looking_at_viewer
+  category: general
+  aliases:
+  - lav
+  - lookign_at_viewer
+  - looking-at-viewer
+  - looking_at_camera
+  - looking_at_the_viewer
+  - looking_at_viewers
+  - looking_at_you
+  - pov_eye_contact
+  - staring_at_viewer
+  implications: []
+- canonical: vulva
+  category: general
+  aliases:
+  - cunt
+  - cunts
+  - exposed_pussy
+  - labia
+  - labia_majora
+  - monotone_pussy
+  - pussies
+  - pussy
+  - twat
+  - vag
+  - vagina
+  - vaginas
+  - vertical_pussy
+  implications:
+  - genitals
+- canonical: erection
+  category: general
+  aliases:
+  - boner
+  - erction
+  - erect
+  - erect_cock
+  - erect_penis
+  - erected
+  - erected_penis
+  - erectio
+  - erections
+  - erectrion
+  - eretion
+  - errected
+  - errected_penis
+  - errection
+  - fully_erect
+  - hard-on
+  - hard_cock
+  - hard_on
+  - hard_penis
+  - hardon
+  - rection
+  implications: []
+- canonical: big_breasts
+  category: general
+  aliases:
+  - big-tits
+  - big_boobies
+  - big_boobs
+  - big_breast
+  - big_breats
+  - big_tits
+  - bigboob
+  - bigboobs
+  - bigbreast
+  - bigbreasts
+  - bigtits
+  - busty
+  - large_boobs
+  - large_breast
+  - large_breasts
+  - large_tits
+  implications:
+  - breasts
+- canonical: tongue
+  category: general
+  aliases:
+  - monotone_tongue
+  - tonge
+  - tongues
+  - tonque
+  - tougue
+  - tounge
+  - toungue
+  implications: []
+- canonical: penetration
+  category: general
+  aliases:
+  - girly_penetrating
+  - insertion
+  - male_penetration
+  - non-humanoid_creature_penetrated
+  - non-humanoid_creature_penetrating
+  - pemetrating
+  - pemetration
+  - penatration
+  - penetracion
+  - penetraiton
+  - penetrasion
+  - penetrated
+  - penetratin
+  - penetrating
+  - penitration
+  - pentrating
+  - ridiculous_penetration
+  - too_deep
+  implications: []
+- canonical: teeth
+  category: general
+  aliases:
+  - teeth_visible
+  - teethy
+  - teth
+  - tooth
+  - toothy
+  - white_teeth
+  - white_tooth
+  - whtie_teeth
+  implications: []
+- canonical: white_body
+  category: general
+  aliases:
+  - white_american_shepherd
+  - white_bdoy
+  - white_cat
+  - white_dragon
+  - white_german_shepherd
+  - white_jaguar
+  - white_leopard
+  - white_lion
+  - white_panther
+  - white_raccoon
+  - white_shepherd
+  - white_siberian_tiger
+  - white_tiger
+  - white_wolf
+  - whtie_body
+  implications: []
+- canonical: cum
+  category: general
+  aliases:
+  - cum_filled
+  - cummy
+  - jizz
+  - semen
+  - seminal_fluid
+  - sperm
+  - spooge
+  - spunk
+  - sticky_cum
+  - thick_cum
+  - white_cum
+  implications:
+  - genital_fluids
+- canonical: male/female
+  category: general
+  aliases:
+  - f/m
+  - f_m
+  - female/male
+  - female/male/female
+  - female_on_male
+  - female_x_male
+  - femalemale
+  - femalexmale
+  - hetero
+  - heterosexual
+  - lesbian_on_male
+  - m/f
+  - m/f/f
+  - m/f/m
+  - m/m/f
+  - m_f
+  - male/female/female
+  - male/female/male
+  - male_female
+  - male_kissing_female
+  - male_on_female
+  - male_x_female
+  - malefemale
+  - malexfemale
+  - mf
+  - straight
+  - straigth
+  implications:
+  - female
+  - male
+- canonical: horn
+  category: general
+  aliases:
+  - draconic_horn
+  - draconic_horns
+  - horm
+  - horned
+  - horns
+  - neon_horn
+  - neon_horns
+  implications: []
+- canonical: penile
+  category: general
+  aliases:
+  - penile_intercourse
+  - penile_stimulation
+  implications: []
+- canonical: feet
+  category: general
+  aliases:
+  - feets
+  - foot
+  - unusual_feet
+  implications: []
+- canonical: feral
+  category: general
+  aliases:
+  - adult_feral
+  - bottomless_feral
+  - caked_up_feral
+  - feral_art
+  - feral_dog
+  - feral_on_non-humanoid_creature
+  - feral_only
+  - feral_penetrated_young
+  - feral_student
+  - feral_teacher
+  - feralanimal
+  - feralcreature
+  - ferall
+  - ferals
+  - ferl
+  - ferla
+  - ferral
+  - fral
+  - non-anthro
+  - non-anthropomorphic
+  - non-morphic
+  - non_anthro
+  - non_anthropomorphic
+  - non_morphic
+  - nonanthro
+  - nonanthropomorphic
+  - nonmorphic
+  - nude_feral
+  - sapient_feral
+  - sentient_feral
+  - topless_feral
+  implications: []
+- canonical: topwear
+  category: general
+  aliases:
+  - jumper
+  - top_wear
+  - topware
+  - topwea
+  implications:
+  - clothing
+- canonical: tongue_out
+  category: general
+  aliases:
+  - :p
+  - lolling
+  - sticking_out_tongue
+  - sticking_tongue
+  - sticking_tongue_out
+  - tongnue_out
+  - tongue-out
+  - tongue_sticking_out
+  - tongues_out
+  - tougue_out
+  - tounge_out
+  - toungue_out
+  implications:
+  - tongue
+- canonical: claws
+  category: general
+  aliases:
+  - caws
+  - claw
+  - claw_lift
+  - claw_lifted
+  - claw_lifting
+  - claw_raised
+  - claw_up
+  - claws_lift
+  - claws_lifted
+  - claws_lifting
+  - claws_out
+  - claws_raised
+  - claws_up
+  - cute_claws
+  - lift_claw
+  - lift_claws
+  - lifted_claw
+  - lifted_claws
+  - lifting_claw
+  - lifting_claws
+  - monotone_claws
+  - raised_claw
+  - raised_claws
+  - sharp_claws
+  - slaws
+  implications: []
+- canonical: anus
+  category: general
+  aliases:
+  - animal_anus
+  - anuses
+  - ass_hole
+  - asshole
+  - butt_hole
+  - butthole
+  - canine_anus
+  - drool_worthy_anus
+  - exposed_anus
+  - non-mammal_anus
+  - rectum
+  - tail_hole
+  - tailhole
+  implications: []
+- canonical: white_fur
+  category: general
+  aliases:
+  - whitefur
+  - whtie_fur
+  implications:
+  - fur
+  - white_body
+- canonical: dialogue
+  category: general
+  aliases:
+  - conversation
+  - cursed_dialogue
+  - dalog
+  - dialgoue
+  - dialog
+  - dialoge
+  - dialouge
+  - diolouge
+  - monologue
+  - speaking
+  - speech
+  - talk
+  - talking
+  implications: []
+- canonical: thick_thighs
+  category: general
+  aliases:
+  - big_thighs
+  - big_tighs
+  - large_thighs
+  - thicc
+  - thicc_thighs
+  - thick-thighs
+  - thick_legs
+  - thick_thigh
+  - thick_tighs
+  - thunder_thighs
+  - wide_thighs
+  implications: []
+- canonical: fingers
+  category: general
+  aliases:
+  - figers
+  - figners
+  - finger
+  - monotone_fingers
+  implications: []
+- canonical: male/male
+  category: general
+  aliases:
+  - gay
+  - gay_wrestling
+  - homo
+  - m/m
+  - m/m/m
+  - male/male/male
+  - male_kissing_male
+  - male_male
+  - male_on_male
+  - male_top_male_bottom
+  - male_x_male
+  - malemale
+  - malesbian
+  - malexmale
+  - mlm
+  - mm
+  - mmmm_foursome
+  - yaoi
+  implications:
+  - male
+- canonical: humanoid_genitalia
+  category: general
+  aliases:
+  - human_genital
+  - human_genitalia
+  - human_genitals
+  - human_private_parts
+  - human_sexual_organs
+  - humanoid_genital
+  - humanoid_genitalia_on_anthro
+  - humanoid_genitals
+  - humanoid_private_parts
+  - humanoid_sexual_organs
+  implications:
+  - genitals
+- canonical: male_penetrating
+  category: general
+  aliases:
+  - male_penetrating_alien
+  - male_penetrating_robot
+  implications:
+  - male
+  - penetration
+- canonical: blue_eyes
+  category: general
+  aliases:
+  - aqua_eyes
+  - blue_eye
+  - blue_iris
+  - blue_irises
+  - blueeyes
+  - cyan_eyes
+  - dark_blue_eyes
+  - eyes_blues
+  - indigo_eyes
+  - light_blue_eyes
+  - turquoise_eyes
+  implications: []
+- canonical: biped
+  category: general
+  aliases:
+  - bipedal
+  - bipede
+  implications: []
+- canonical: animal_genitalia
+  category: general
+  aliases:
+  - animal_anatomy
+  - animal_genetalia
+  - animal_genital
+  - animal_genitalita
+  - animal_genitals
+  - feral_genital
+  - feral_genitalia
+  - feral_genitals
+  implications:
+  - genitals
+- canonical: tuft
+  category: general
+  aliases:
+  - monotone_tuft
+  implications: []
+- canonical: humanoid_penis
+  category: general
+  aliases:
+  - humaanoid_penis
+  - human_cock
+  - human_dick
+  - human_penis
+  - human_penis_on_anthro
+  - human_penis_on_feral
+  - human_penis_on_humanoid
+  - human_penis_on_non-human
+  - human_penis_on_non-humanoid
+  - human_penis_on_non_human
+  - human_penis_on_non_humanoid
+  - human_penis_on_nonhuman
+  - human_penis_on_nonhumanoid
+  - human_penis_on_taur
+  - humaniod_penis
+  - humanoid-penis
+  - humanoid_cock
+  - humanoid_dick
+  - humanoid_peen
+  - humanoid_penis_on_anthro
+  - humanoid_penis_on_humanoid
+  - humanoid_penis_on_non-human
+  - humanoid_penis_on_non-humanoid
+  - humanoid_penis_on_non_human
+  - humanoid_penis_on_non_humanoid
+  - humanoid_penis_on_nonhuman
+  - humanoid_penis_on_nonhumanoid
+  - humanoid_penis_on_taur
+  - huminoid_penis
+  - non-humanoid_humanoid_penis
+  - non_humanoid_humanoid_penis
+  - nonhumanoid_humanoid_penis
+  implications:
+  - humanoid_genitalia
+  - penis
+- canonical: navel
+  category: general
+  aliases:
+  - belly-button
+  - belly_button
+  - bellybutton
+  - exposed_navel
+  - innie_navel
+  - naevl
+  - naval
+  - navels
+  - navl
+  - navle
+  - navles
+  - nvael
+  - nval
+  - nvel
+  - umbilici
+  - umbilicus
+  - umbilicuses
+  implications: []
+- canonical: muscular
+  category: general
+  aliases:
+  - beefcake
+  - beefy
+  - bodybuilder
+  - buff
+  - musclar
+  - muscle
+  - muscled
+  - muscler
+  - muscles
+  - muscular_body
+  - muslces
+  - musuclar
+  - musular
+  - roided
+  - strong
+  - swole
+  implications: []
+- canonical: group
+  category: general
+  aliases:
+  - 1girl3guys
+  - group_focus
+  - quartet
+  - quintet
+  - too_many_characters
+  implications: []
+- canonical: standing
+  category: general
+  aliases:
+  - stadning
+  - stand
+  - standign
+  - standind
+  - standing_on
+  - standing_up
+  - standng
+  - stanidng
+  - stanindg
+  - staning
+  - stnaidng
+  - syanding
+  implications: []
+- canonical: areola
+  category: general
+  aliases:
+  - aerola
+  - areolae
+  - areolas
+  - aroela
+  - monotone_areola
+  implications: []
+- canonical: bottomwear
+  category: general
+  aliases:
+  - bottom_wear
+  implications:
+  - clothing
+- canonical: toes
+  category: general
+  aliases:
+  - monotone_toes
+  - toe
+  implications:
+  - feet
+- canonical: markings
+  category: general
+  aliases:
+  - body_makring
+  - body_marking
+  - body_markings
+  - body_marks
+  - mark_(marking)
+  - mark_(markings)
+  - markigns
+  - marking
+  - marks
+  - marks_(marking)
+  - marks_(markings)
+  - neon_marking
+  - neon_markings
+  - skin_marking
+  - skin_markings
+  implications: []
+- canonical: piercing
+  category: general
+  aliases:
+  - body_piercing
+  - body_piercings
+  - pearcing
+  - peircing
+  - peircings
+  - pericings
+  - pierced
+  - piercings
+  implications: []
+- canonical: brown_body
+  category: general
+  aliases:
+  - brown_dog
+  - brown_fox
+  - brown_horse
+  - brown_skunk
+  - dark_brown_body
+  - light_brown_body
+  implications: []
+- canonical: anal
+  category: general
+  aliases:
+  - anal_intercourse
+  - anal_play
+  - anal_sex
+  - anal_stimulation
+  - ass_sex
+  - butt_sex
+  - buttsecks
+  - buttsex
+  implications: []
+- canonical: big_butt
+  category: general
+  aliases:
+  - big-ass
+  - big-butt
+  - big_ass
+  - big_booty
+  - bigass
+  - bigbooty
+  - bigbutt
+  - chubby_ass
+  - enormous_ass
+  - enormous_butt
+  - fat_butt
+  - humongous_ass
+  - humongous_butt
+  - large_ass
+  - large_booty
+  - large_butt
+  - massive_ass
+  - massive_butt
+  - oversized_butt
+  - phat_ass
+  - plump_ass
+  - plump_butt
+  - plump_buttocks
+  - thicc_ass
+  - thick_ass
+  - thick_butt
+  - wide_ass
+  - wide_butt
+  implications:
+  - butt
+- canonical: lying
+  category: general
+  aliases:
+  - lay
+  - laying
+  - laying_down
+  - lying_down
+  implications: []
+- canonical: wings
+  category: general
+  aliases:
+  - 2_wings
+  - wing
+  - winged
+  implications: []
+- canonical: cum_inside
+  category: general
+  aliases:
+  - came_inside
+  - cream_pie
+  - creampie
+  - cum_in_feral
+  - cum_while_penetrating
+  - cumming_inside
+  - internal_cumshot
+  implications:
+  - cum
+- canonical: vaginal
+  category: general
+  aliases:
+  - pussy_play
+  - vaginal_intercourse
+  - vaginal_stimulation
+  implications: []
+- canonical: big_penis
+  category: general
+  aliases:
+  - big_black_cock
+  - big_cock
+  - big_cocks
+  - big_dick
+  - bigpenis
+  - comically_large_penis
+  - hung
+  - large_cock
+  - large_dick
+  - large_penis
+  - oversized_penis
+  implications:
+  - penis
+- canonical: black_body
+  category: general
+  aliases:
+  - black_cat
+  - black_dragon
+  - black_fox
+  - black_horse
+  - black_jaguar
+  - black_lab
+  - black_labrador
+  - black_leopard
+  - black_lion
+  - black_panther
+  - black_rabbit
+  - black_tiger
+  - black_wolf
+  implications: []
+- canonical: size_difference
+  category: general
+  aliases:
+  - big_male_small_fem
+  - big_male_small_female
+  - height_difference
+  - larger_non-humanoid_creature
+  - side_difference
+  - size-diff
+  - size-difference
+  - size_diff
+  - size_different
+  - small_fem_big_male
+  - small_female_big_male
+  - smaller_non-humanoid_creature
+  implications: []
+- canonical: spreading
+  category: general
+  aliases:
+  - spread
+  implications: []
+- canonical: underwear
+  category: general
+  aliases:
+  - under_wear
+  - undergarments
+  - underpants
+  - underwears
+  - undies
+  implications:
+  - clothing
+- canonical: blue_body
+  category: general
+  aliases:
+  - blue_avian
+  - blue_cat
+  - blue_dragon
+  - blue_fox
+  - blue_panda
+  - cyan_body
+  - dark_blue_body
+  - indigo_body
+  - light_blue_body
+  implications: []
+- canonical: heart_symbol
+  category: general
+  aliases:
+  - <3
+  - heart
+  - hearts
+  - love_heart
+  - love_hearts
+  - spoken_heart
+  - "\u2665"
+  - "\u2764\uFE0F"
+  implications: []
+- canonical: multicolored_body
+  category: general
+  aliases:
+  - black_and_white_body
+  - black_and_yellow_body
+  - four_color_body
+  - multi-colored_body
+  - multi_colored_body
+  - multi_tone_body
+  - multicoloured_body
+  - red_and_white_body
+  - three-tone_body
+  - three-toned_body
+  - three_color_body
+  - three_tone_body
+  - three_toned_body
+  - white_and_pink_body
+  implications: []
+- canonical: eyes_closed
+  category: general
+  aliases:
+  - both_eyes_closed
+  - close_eyes
+  - closed_eye
+  - closed_eyes
+  - eyes-closed
+  - eyes_shut
+  implications: []
+- canonical: penile_penetration
+  category: general
+  aliases:
+  - penile_insertion
+  - penile_pen
+  - penile_sex
+  - penis_insertion
+  - penis_pen
+  - penis_penetrating
+  - penis_penetration
+  - penis_sex
+  - riding_cock
+  implications:
+  - penetration
+  - penile
+- canonical: wide_hips
+  category: general
+  aliases:
+  - big_hips
+  - curvy_hips
+  - hips
+  - inherited_hips
+  - large_hips
+  - thick_hips
+  - wide_hip
+  implications: []
+- canonical: shirt
+  category: general
+  aliases:
+  - shirts
+  implications:
+  - topwear
+- canonical: huge_breasts
+  category: general
+  aliases:
+  - breasts_bigger_than_head
+  - breasts_bigger_than_torso
+  - enormous_boobs
+  - enormous_breast
+  - enormous_breasts
+  - enormous_tits
+  - giant_boobs
+  - giant_breast
+  - giant_breasts
+  - giant_tits
+  - gigantic_boobs
+  - gigantic_breast
+  - gigantic_breasts
+  - gigantic_tits
+  - huge_boobs
+  - huge_breast
+  - huge_tits
+  implications:
+  - big_breasts
+  - breasts
+- canonical: anal_penetration
+  category: general
+  aliases:
+  - anal_insertion
+  - anal_insertions
+  - anal_peneration
+  - anal_penetrated
+  - anally_penetrated
+  - ass_fuck
+  - assfuck
+  - butt_fuck
+  - buttfuck
+  - penetrating_ass
+  - penetrating_asshole
+  - penetrating_butthole
+  implications:
+  - anal
+  - penetration
+- canonical: sweat
+  category: general
+  aliases:
+  - sweating
+  - sweaty
+  implications:
+  - bodily_fluids
+- canonical: animal_penis
+  category: general
+  aliases:
+  - animal_dick
+  - feral_penis
+  implications:
+  - animal_genitalia
+  - penis
+- canonical: brown_fur
+  category: general
+  aliases:
+  - brown-fur
+  - brownfur
+  - dark_brown_fur
+  - light_brown_fur
+  implications:
+  - brown_body
+  - fur
+- canonical: plant
+  category: general
+  aliases:
+  - foliage
+  - plants
+  - vegetation
+  implications: []
+- canonical: grey_body
+  category: general
+  aliases:
+  - dark_grey_body
+  - gray_body
+  - gray_dragon
+  - grey_dragon
+  - light_grey_body
+  implications: []
+- canonical: furniture
+  category: general
+  aliases: []
+  implications: []
+- canonical: sitting
+  category: general
+  aliases:
+  - sat
+  - sat_down
+  - seated
+  - sit
+  - sit_down
+  - siting
+  - sititng
+  - sitt
+  - sitting_down
+  - sitting_on
+  - sitting_up
+  - sitting_upright
+  - sittng
+  implications: []
+- canonical: narrowed_eyes
+  category: general
+  aliases:
+  - eye_narrow
+  - eye_narrowed
+  - eye_narrowing
+  - eye_partially_closed
+  - eye_partly_closed
+  - eye_slightly_closed
+  - eyes_narrow
+  - eyes_narrowed
+  - eyes_narrowing
+  - eyes_partially_closed
+  - eyes_partly_closed
+  - eyes_slightly_closed
+  - narrow_eye
+  - narrow_eyes
+  - narrowed_eye
+  - narrowing_eye
+  - narrowing_eyes
+  - partially_closed_eye
+  - partially_closed_eyes
+  - partly_closed_eye
+  - partly_closed_eyes
+  - slightly_closed_eye
+  - slightly_closed_eyes
+  implications: []
+- canonical: ambiguous_gender
+  category: general
+  aliases:
+  - adult_ambiguous
+  - ambigious_gender
+  - ambiguous
+  - ambiguous_non-humanoid_creature
+  - ambiguous_raping_male
+  - ambiguous_sex
+  - ambiguous_student
+  - ambiguous_teacher
+  - ambitious_gender
+  - androgyny
+  - gender_unknown
+  - unknown_gender
+  implications: []
+- canonical: muscular_male
+  category: general
+  aliases:
+  - buff_male
+  - musclar_male
+  - muscular_males
+  - musuclar_male
+  - musuclar_man
+  - musular_male
+  implications:
+  - male
+  - muscular
+- canonical: white_background
+  category: general
+  aliases:
+  - white_backgorund
+  - white_backgroudn
+  - white_backround
+  - white_bg
+  - whtie_background
+  - whtie_bg
+  implications:
+  - simple_background
+- canonical: green_eyes
+  category: general
+  aliases:
+  - emerald_eyes
+  - green-eyes
+  - green_eye
+  - green_eys
+  - green_iris
+  - green_irises
+  - light_green_eyes
+  implications: []
+- canonical: female_penetrated
+  category: general
+  aliases: []
+  implications:
+  - female
+  - penetration
+- canonical: eyewear
+  category: general
+  aliases:
+  - eye_wear
+  implications: []
+- canonical: legwear
+  category: general
+  aliases:
+  - leg_wear
+  implications:
+  - clothing
+- canonical: interspecies
+  category: general
+  aliases:
+  - dragon_on_gryphon
+  - inter-species
+  - inter_species
+  - interspecies_relationship
+  - interspecies_sex
+  - mammal/reptile
+  implications: []
+- canonical: spread_legs
+  category: general
+  aliases:
+  - leg_spread
+  - leg_spreading
+  - legs_apart
+  - legs_open
+  - legs_spread
+  - legs_spreading
+  - legsapart
+  - manspreading
+  - open_legs
+  - spead_legs
+  - spread_leg
+  - spreading_legs
+  - spreadlegs
+  implications:
+  - spreading
+- canonical: headgear
+  category: general
+  aliases: []
+  implications: []
+- canonical: vaginal_penetration
+  category: general
+  aliases:
+  - penetrating_pussy
+  - pussy_insertion
+  - pussy_penetration
+  - vaginal_insertion
+  - vaginal_pen
+  - vaginal_penetrating
+  - vaginal_pentration
+  - vaginal_sex
+  implications:
+  - penetration
+  - vaginal
+- canonical: eyelashes
+  category: general
+  aliases:
+  - black_eyelashes
+  - eye_lashes
+  - eyelash
+  implications: []
+- canonical: long_hair
+  category: general
+  aliases:
+  - longhair
+  - very_long_hair
+  implications:
+  - hair
+- canonical: looking_back
+  category: general
+  aliases:
+  - lookign_back
+  - looking_behind
+  - looking_over_shoulder
+  - looks_back
+  - over_shoulder
+  - over_the_shoulder
+  implications: []
+- canonical: outside
+  category: general
+  aliases:
+  - out_doors
+  - out_side
+  - outdoor
+  - outdoors
+  - outisde
+  - outise
+  implications: []
+- canonical: oral
+  category: general
+  aliases:
+  - oral_sex
+  - tongue_fuck
+  implications: []
+- canonical: belly
+  category: general
+  aliases:
+  - bellies
+  - bely
+  - chubby_belly
+  - crotch_belly
+  - crotchbelly
+  - gut
+  - pudgy_belly
+  - round_belly
+  - tummy
+  implications: []
+- canonical: 5_fingers
+  category: general
+  aliases:
+  - 5_figner
+  - 5_fignered
+  - 5_figners
+  - 5_finger
+  - 5_fingered
+  - 5f
+  - 5fingers
+  - five_figner
+  - five_fignered
+  - five_figners
+  - five_finger
+  - five_fingered
+  - five_fingers
+  implications:
+  - fingers
+- canonical: paws
+  category: general
+  aliases:
+  - fore_paw
+  - fore_paws
+  - forepaw
+  - forepaws
+  - paw
+  - paw_on_arm
+  - paw_on_back
+  - paw_on_breast
+  - paw_on_butt
+  - paw_on_cheek
+  - paw_on_chest
+  - paw_on_chin
+  - paw_on_dick
+  - paw_on_face
+  - paw_on_head
+  - paw_on_knot
+  - paw_on_leg
+  - paw_on_muzzle
+  - paw_on_neck
+  - paw_on_nose
+  - paw_on_penis
+  - paw_on_pussy
+  - paw_on_shoulder
+  - paw_on_stomach
+  - paw_on_tongue
+  - paw_on_waist
+  - paw_on_wing
+  - pawbs
+  - paws_on_back
+  - paws_on_balls
+  - paws_on_belly
+  - paws_on_breasts
+  - paws_on_butt
+  - paws_on_face
+  - paws_on_glass
+  - paws_on_hips
+  - paws_on_mouth
+  - paws_on_pillow
+  - paws_on_thighs
+  implications: []
+- canonical: male_penetrating_female
+  category: general
+  aliases:
+  - m/p/fm
+  - "\u2642_penetrating_\u2640"
+  implications:
+  - female_penetrated
+  - male/female
+  - male_penetrating
+  - sex
+- canonical: footwear
+  category: general
+  aliases:
+  - feet_wear
+  - feetwear
+  - foot_wear
+  implications:
+  - clothing
+- canonical: fangs
+  category: general
+  aliases:
+  - fang
+  - long_canines
+  implications:
+  - teeth
+- canonical: eyebrows
+  category: general
+  aliases:
+  - eybrows
+  - eye_brow
+  - eye_brows
+  - eyebrow
+  - monotone_eyebrows
+  implications: []
+- canonical: speech_bubble
+  category: general
+  aliases:
+  - bubble_speech
+  - dialog_balloon
+  - dialogue_balloon
+  - dialogue_bubble
+  - speach_bubble
+  - speech_balloon
+  - speech_balloons
+  - speech_bubbles
+  - talk_bubble
+  - text_bubble
+  - text_bubbles
+  - word_balloon
+  - word_bubble
+  implications: []
+- canonical: pawpads
+  category: general
+  aliases:
+  - foot-pad
+  - foot-pads
+  - foot_pad
+  - foot_pads
+  - footpad
+  - footpads
+  - monotone_pawpads
+  - padpads
+  - paw-pad
+  - paw-pads
+  - paw_beans
+  - paw_pad
+  - paw_pads
+  - pawapds
+  - pawbeans
+  - pawpad
+  - pawpawds
+  - pawpaws
+  - pawspad
+  - pawspads
+  - toe-bean
+  - toe-beans
+  - toe-been
+  - toe-beens
+  - toe_bean
+  - toe_beans
+  - toe_been
+  - toe_beens
+  - toebean
+  - toebeans
+  - toebeen
+  - toebeens
+  implications: []
+- canonical: ear_piercing
+  category: general
+  aliases:
+  - ear-piercing
+  - ear-piercings
+  - ear_peircing
+  - ear_pierced
+  - ear_piercings
+  - earpiercing
+  - pierced_ear
+  - pierced_ears
+  implications:
+  - piercing
+- canonical: collar
+  category: general
+  aliases:
+  - cat-collar
+  - cat_collar
+  - catcollar
+  - collared
+  - collars
+  - coolar
+  - dog-collar
+  - dog_collar
+  - dogcollar
+  - pet-collar
+  - pet_collar
+  - petcollar
+  - slave_collar
+  implications: []
+- canonical: black_nose
+  category: general
+  aliases:
+  - black-nose
+  - blacknose
+  - blakc_nose
+  - blck_nose
+  implications: []
+- canonical: red_eyes
+  category: general
+  aliases:
+  - dark_red_eyes
+  - red_eye
+  - red_iris
+  - red_irises
+  - scarlet_eyes
+  implications: []
+- canonical: jewelry
+  category: general
+  aliases:
+  - jewelery
+  - jewellery
+  - jewerly
+  - jewlery
+  - jewlry
+  implications: []
+- canonical: presenting
+  category: general
+  aliases:
+  - displaying
+  - exposing_self
+  - show_off
+  - showing_off
+  implications: []
+- canonical: intersex
+  category: general
+  aliases:
+  - 1_futa
+  - 1_futanari
+  - 1_intersex
+  - 1futa
+  - 1futanari
+  - 1intersex
+  - adult_intersex
+  - female_with_penis
+  - futa
+  - futa_only
+  - futa_solo
+  - futanari
+  - futanari_only
+  - intersex_fingered
+  - intersex_non-humanoid_creature
+  - intersex_only
+  - intersex_pussy
+  - intersex_student
+  - intersex_teacher
+  - intersex_vagina
+  - intersexed
+  - intersexual
+  implications: []
+- canonical: black_fur
+  category: general
+  aliases:
+  - black-fur
+  - blackfur
+  - blakc_fur
+  implications:
+  - black_body
+  - fur
+- canonical: on_back
+  category: general
+  aliases:
+  - laying_back
+  - laying_on_back
+  - lying_back
+  - lying_on_back
+  - on-back
+  - supine
+  implications:
+  - lying
+- canonical: anthro_on_anthro
+  category: general
+  aliases:
+  - a/o/a
+  - an/an
+  - anthro/anthro
+  - anthro_kissing_anthro
+  implications:
+  - anthro
+- canonical: looking_pleasured
+  category: general
+  aliases:
+  - feeling_pleasured
+  - lookign_pleasured
+  - looking_pleased
+  - lost_in_pleasure
+  - pleasure_expression
+  - pleasure_face
+  - pleasured
+  - pleasured_expression
+  - pleasured_face
+  - pleasured_female
+  - pleasured_male
+  - visibly_pleasured
+  implications: []
+- canonical: grey_fur
+  category: general
+  aliases:
+  - dark_grey_fur
+  - gray_fur
+  - grey-fur
+  - greyfur
+  - light_gray_fur
+  - light_grey_fur
+  - silver_fur
+  implications:
+  - fur
+  - grey_body
+- canonical: multicolored_fur
+  category: general
+  aliases:
+  - black_and_red_and_gold_fur
+  - black_and_white_fur
+  - blue_and_white_fur
+  - brown_and_tan_fur
+  - brown_and_white_fur
+  - grey_and_white_fur
+  - multi-colored_fur
+  - multi_colored_fur
+  - multi_tone_fur
+  - multicolor_fur
+  - multicolour_fur
+  - multicoloured_fur
+  - mutlicolored_fur
+  - red_and_black_fur
+  - red_and_white_fur
+  - three-tone_fur
+  - three-toned_fur
+  - three_tone_fur
+  - three_toned_fur
+  - white_and_black_fur
+  - white_and_tan_fur
+  implications:
+  - fur
+  - multicolored_body
+- canonical: yellow_body
+  category: general
+  aliases:
+  - yellow_dragon
+  - yellow_fox
+  - yellow_lab
+  - yellow_labrador
+  implications: []
+- canonical: young
+  category: general
+  aliases:
+  - chicks
+  - colt
+  - cub
+  - cub_receiving
+  - cubs
+  - duckling
+  - fawn
+  - fillies
+  - filly
+  - fillycon
+  - foal
+  - foalcon
+  - foals
+  - hatchling
+  - kidfur
+  - kitten
+  - kittens
+  - littlefur
+  - minor
+  - paedophilia
+  - pedophelia
+  - pedophilia
+  - puppies
+  - puppy
+  - pups
+  - under_age
+  - underage
+  - underaged
+  - young_femboy
+  implications: []
+- canonical: headwear
+  category: general
+  aliases:
+  - head_wear
+  implications:
+  - clothing
+  - headgear
+- canonical: overweight
+  category: general
+  aliases:
+  - bbw
+  - chonky
+  - chunky
+  - debu-kemo
+  - debu_kemo
+  - debukemo
+  - fat
+  - fat_fetish
+  - fat_fur
+  - fat_furs
+  - fat_kemono
+  - fat_kink
+  - fatfur
+  - fatfurs
+  - fatness
+  - fatties
+  - fatty
+  - furfat
+  - lardass
+  - plump
+  - plus_size
+  - pudgy
+  - superchub
+  - winter_fat
+  implications: []
+- canonical: muscular_anthro
+  category: general
+  aliases:
+  - musclar_anthro
+  - musular_anthro
+  implications:
+  - anthro
+  - muscular
+- canonical: big_balls
+  category: general
+  aliases:
+  - large_balls
+  - large_testicles
+  implications:
+  - balls
+- canonical: ejaculation
+  category: general
+  aliases:
+  - cuming
+  - cumming
+  - ejaculate
+  - ejaculating
+  - ejaculating_cum
+  implications: []
+- canonical: saliva
+  category: general
+  aliases:
+  - sailva
+  - salaiva
+  - salivating
+  - salive
+  - salvia
+  - slobber
+  - spit
+  - spittle
+  implications:
+  - bodily_fluids
+- canonical: glasses
+  category: general
+  aliases:
+  - classes
+  - dark_glasses
+  - eye_glasses
+  - eyeglasses
+  - glaases
+  - megane
+  - reading_glasses
+  - spectacles
+  implications:
+  - eyewear
+- canonical: black_hair
+  category: general
+  aliases:
+  - black)hair
+  - black_hairs
+  - blakc_hair
+  - long_black_hair
+  - short_black_hair
+  implications:
+  - hair
+- canonical: brown_hair
+  category: general
+  aliases:
+  - bronw_hair
+  - brown)hair
+  - brunette
+  - brunette_hair
+  - dark_brown_hair
+  - hair_brown
+  - light_brown_hair
+  - long_brown_hair
+  - short_brown_hair
+  implications:
+  - hair
+- canonical: male_penetrated
+  category: general
+  aliases: []
+  implications:
+  - male
+  - penetration
+- canonical: knot
+  category: general
+  aliases:
+  - bulbus_glandis
+  - knott
+  implications: []
+- canonical: vein
+  category: general
+  aliases:
+  - veins
+  - veiny
+  implications: []
+- canonical: anthro_penetrated
+  category: general
+  aliases:
+  - non-humanoid_creature_penetrating_anthro
+  implications:
+  - anthro
+  - penetration
+- canonical: hat
+  category: general
+  aliases:
+  - cap
+  - fancy_hat
+  - hats
+  implications:
+  - headwear
+- canonical: tan_body
+  category: general
+  aliases:
+  - beige_body
+  - burlywood_body
+  - cream_body
+  - tanbody
+  implications: []
+- canonical: abs
+  category: general
+  aliases:
+  - 6_pack
+  - 6pack
+  - 8-pack
+  - 8_pack
+  - 8pack
+  - abdominals
+  - eight_pack
+  - eight_pack_abs
+  - eightpack
+  - six_pack
+  - six_pack_abs
+  - six_packs
+  - sixpack
+  implications: []
+- canonical: handwear
+  category: general
+  aliases:
+  - hand_clothes
+  - hand_clothing
+  - hand_wear
+  implications:
+  - clothing
+- canonical: feathers
+  category: general
+  aliases:
+  - feather
+  - feathered
+  implications: []
+- canonical: orange_body
+  category: general
+  aliases:
+  - orange_cat
+  - orange_dragon
+  implications: []
+- canonical: blonde_hair
+  category: general
+  aliases:
+  - blond
+  - blond_hair
+  - blonde
+  - blonde-hair
+  - blonde_short_hair
+  - blondehair
+  - dirty_blonde
+  - dirty_blonde_hair
+  - gold_hair
+  - golden_hair
+  - long_blond_hair
+  - long_blonde_hair
+  - long_yellow_hair
+  - short_blond_hair
+  - short_blonde_hair
+  - short_yellow_hair
+  - yellow-hair
+  - yellow_hair
+  implications:
+  - hair
+- canonical: shoes
+  category: general
+  aliases:
+  - shoe
+  implications:
+  - footwear
+- canonical: solo_focus
+  category: general
+  aliases:
+  - solo-focus
+  implications: []
+- canonical: pecs
+  category: general
+  aliases:
+  - bara_tiddies
+  - bara_tiddy
+  - pec
+  - peccs
+  - pecks
+  - pectoral
+  - pectorals
+  implications: []
+- canonical: yellow_eyes
+  category: general
+  aliases:
+  - gold_eyes
+  - golden_eyes
+  - yellow_eye
+  - yellow_iris
+  - yellow_irises
+  implications: []
+- canonical: detailed_background
+  category: general
+  aliases:
+  - complex_background
+  - complex_bg
+  - complicated_background
+  - complicated_bg
+  - detailed_backgorund
+  - detailed_backgroudn
+  - detailed_bg
+  - detaled_background
+  - detaled_bg
+  - detalied_background
+  - detalied_bg
+  - full_background
+  - full_bg
+  - ornate_background
+  - ornate_bg
+  - realistic_background
+  - realistic_bg
+  implications: []
+- canonical: gloves
+  category: general
+  aliases:
+  - gloces
+  - glove
+  - gloved
+  - gloved_hand
+  - gloved_hands
+  implications:
+  - handwear
+- canonical: holding_object
+  category: general
+  aliases:
+  - carrying_object
+  - holding_item
+  - holding_items
+  - holding_objects
+  implications: []
+- canonical: gynomorph
+  category: general
+  aliases:
+  - adult_gynomorph
+  - dgirl
+  - dick-girl
+  - dick_girl
+  - dickgirl
+  - dickgirls
+  - dickgril
+  - feminine_intersex
+  - futa_sans_pussy
+  - girl_with_a_cock
+  - girl_with_a_dick
+  - girl_with_a_dicks
+  - girl_with_a_dong
+  - girl_with_a_penes
+  - girl_with_a_penii
+  - girl_with_a_penis
+  - girl_with_a_penises
+  - girl_with_a_phallus
+  - girl_with_cock
+  - girl_with_dick
+  - girl_with_dicks
+  - girl_with_dong
+  - girl_with_penes
+  - girl_with_penii
+  - girl_with_penis
+  - girl_with_penises
+  - girl_with_phallus
+  - girls_with_a_cock
+  - girls_with_a_dick
+  - girls_with_a_dicks
+  - girls_with_a_dong
+  - girls_with_a_penes
+  - girls_with_a_penii
+  - girls_with_a_penis
+  - girls_with_a_penises
+  - girls_with_a_phallus
+  - girls_with_cock
+  - girls_with_dick
+  - girls_with_dicks
+  - girls_with_dong
+  - girls_with_penes
+  - girls_with_penii
+  - girls_with_penis
+  - girls_with_penises
+  - girls_with_phallus
+  - gynomorph_non-humanoid_creature
+  - gynomorph_student
+  - gynomorph_teacher
+  - intersex_female
+  - male_to_female_trans_sexual
+  - shemale
+  - woman_with_a_cock
+  - woman_with_a_dick
+  - woman_with_a_dicks
+  - woman_with_a_dong
+  - woman_with_a_penes
+  - woman_with_a_penii
+  - woman_with_a_penis
+  - woman_with_a_penises
+  - woman_with_a_phallus
+  - woman_with_cock
+  - woman_with_dick
+  - woman_with_dicks
+  - woman_with_dong
+  - woman_with_penes
+  - woman_with_penii
+  - woman_with_penis
+  - woman_with_penises
+  - woman_with_phallus
+  - women_with_a_cock
+  - women_with_a_dick
+  - women_with_a_dicks
+  - women_with_a_dong
+  - women_with_a_penes
+  - women_with_a_penii
+  - women_with_a_penis
+  - women_with_a_penises
+  - women_with_a_phallus
+  - women_with_cock
+  - women_with_dick
+  - women_with_dicks
+  - women_with_dong
+  - women_with_penes
+  - women_with_penii
+  - women_with_penis
+  - women_with_penises
+  - women_with_phallus
+  implications:
+  - intersex
+- canonical: vaginal_fluids
+  category: general
+  aliases:
+  - bitch_juice
+  - female_cum
+  - femcum
+  - femjuice
+  - girl_cum
+  - grool
+  - pussy_juice
+  - pussy_juices
+  - pussy_wet
+  - pussyjuice
+  - vaginal_fluid
+  - vaginal_juice
+  - vaginal_juices
+  - vaginal_secretion
+  - vaginal_secretions
+  - wet_pussy
+  implications:
+  - genital_fluids
+- canonical: inside
+  category: general
+  aliases:
+  - indoor
+  - indoors
+  - interior
+  - room
+  implications: []
+- canonical: two_tone_body
+  category: general
+  aliases:
+  - two-tone-body
+  - two-tone_body
+  - two_color_body
+  implications:
+  - multicolored_body
+- canonical: male_penetrating_male
+  category: general
+  aliases:
+  - m/p/m
+  - "\u2642_penetrating_\u2642"
+  implications:
+  - male/male
+  - male_penetrated
+  - male_penetrating
+  - sex
+- canonical: hyper
+  category: general
+  aliases:
+  - hyper-endowed
+  - hyper_endowed
+  - hypertrophilia
+  implications: []
+- canonical: orgasm
+  category: general
+  aliases:
+  - climax
+  - climaxing
+  - orgasming
+  - powerful_orgasm
+  implications: []
+- canonical: pants
+  category: general
+  aliases:
+  - trousers
+  implications:
+  - bottomwear
+- canonical: precum
+  category: general
+  aliases:
+  - pre
+  - pre-cum
+  - pre_cum
+  implications:
+  - genital_fluids
+- canonical: bed
+  category: general
+  aliases:
+  - beds
+  implications:
+  - furniture
+- canonical: rear_view
+  category: general
+  aliases:
+  - back_pose
+  - back_shot
+  - back_to_camera
+  - back_to_viewer
+  - back_turned
+  - back_view
+  - backview
+  - behind_view
+  - from_behind_view
+  - rearview
+  - view_from_back
+  - view_from_behind
+  implications: []
+- canonical: blue_fur
+  category: general
+  aliases:
+  - bluefur
+  - cyan_fur
+  - dark_blue_fur
+  - indigo_fur
+  - light_blue_fur
+  - turquoise_fur
+  implications:
+  - blue_body
+  - fur
+- canonical: half-closed_eyes
+  category: general
+  aliases:
+  - eye_half_opened
+  - eyes_half-closed
+  - eyes_half_closed
+  - eyes_half_open
+  - eyes_half_opened
+  - eyes_half_shut
+  - half-closed-eyes
+  - half-closed_eye
+  - half-lidded_eyes
+  - half-open_eye
+  - half-open_eyes
+  - half-opened_eye
+  - half-opened_eyes
+  - half_closed
+  - half_closed_eye
+  - half_closed_eyes
+  - half_lidded_eyes
+  - half_open_eye
+  - half_open_eyes
+  - half_opened_eye
+  - half_opened_eyes
+  - halfclosed_eyes
+  - halflid_eyes
+  implications:
+  - narrowed_eyes
+- canonical: stripes
+  category: general
+  aliases:
+  - stripe
+  - striped
+  - stripey
+  - strypes
+  - tiger_stripes
+  - zebra_stripes
+  implications: []
+- canonical: white_hair
+  category: general
+  aliases:
+  - long_white_hair
+  - short_white_hair
+  - white)hair
+  - white-hair
+  - whitehair
+  - whtie_hair
+  implications:
+  - hair
+- canonical: canine_genitalia
+  category: general
+  aliases:
+  - canine_genitals
+  implications:
+  - animal_genitalia
+- canonical: penis_in_vagina
+  category: general
+  aliases:
+  - penis_in_pussy
+  implications:
+  - penile_penetration
+  - vaginal_penetration
+- canonical: countershading
+  category: general
+  aliases:
+  - counter-shade
+  - counter-shaded
+  - counter-shading
+  - counter_shade
+  - counter_shaded
+  - counter_shading
+  - countershade
+  - countershaded
+  - countershadeing
+  - light_countershade
+  - light_countershading
+  - light_underbelly
+  implications: []
+- canonical: anthro_penetrating
+  category: general
+  aliases:
+  - anthro_penetrating_non-humanoid_creature
+  implications:
+  - anthro
+  - penetration
+- canonical: toe_claws
+  category: general
+  aliases:
+  - clawed_feet
+  - clawed_toes
+  - feet_claws
+  - foot_claws
+  - toe_claw
+  - toeclaws
+  implications:
+  - claws
+- canonical: huge_penis
+  category: general
+  aliases:
+  - giant_penis
+  - gigantic_penis
+  - huge_cock
+  - huge_dick
+  implications:
+  - big_penis
+- canonical: foreskin
+  category: general
+  aliases:
+  - uncircumcised
+  - uncircumcised_penis
+  - uncircumsized
+  - uncircumsized_penis
+  - uncut
+  - uncut_cock
+  - uncut_penis
+  implications:
+  - penis
+- canonical: fluffy
+  category: general
+  aliases:
+  - floof
+  - floofy
+  - fluff
+  implications: []
+- canonical: scales
+  category: general
+  aliases: []
+  implications: []
+- canonical: bound
+  category: general
+  aliases:
+  - bounded
+  - cuffed
+  - tide_up
+  - tied
+  - tied-up
+  - tied_up
+  - tiedup
+  implications: []
+- canonical: looking_at_another
+  category: general
+  aliases:
+  - looking_at_other
+  implications: []
+- canonical: green_body
+  category: general
+  aliases:
+  - dark_green_body
+  - green_cat
+  - green_dragon
+  - green_panda
+  implications: []
+- canonical: red_body
+  category: general
+  aliases:
+  - red_dragon
+  - red_husky
+  - red_raccoon
+  implications: []
+- canonical: veiny_penis
+  category: general
+  aliases:
+  - cock_vein
+  - penis_blood_vein
+  - penis_vein
+  - vainly_penis
+  - veiny_cock
+  - vieny_penis
+  implications:
+  - penis
+  - vein
+- canonical: purple_body
+  category: general
+  aliases:
+  - dark_purple_body
+  - lavender_body
+  - light_purple_body
+  - lilac_body
+  - puple_body
+  - purple_cat
+  - purple_dragon
+  - violet_body
+  implications: []
+- canonical: front_view
+  category: general
+  aliases:
+  - facing_viewer
+  - frong_view
+  - front
+  - front-view
+  - front_facing
+  - frontal
+  - frontal_view
+  implications: []
+- canonical: blue_hair
+  category: general
+  aliases:
+  - aqua_hair
+  - blue)hair
+  - blue_hairs
+  - cyan_hair
+  - dark_blue_hair
+  - indigo_hair
+  - light_blue_hair
+  - long_blue_hair
+  - short_blue_hair
+  implications:
+  - hair
+- canonical: from_behind_position
+  category: general
+  aliases:
+  - behind_position
+  - from_back_position
+  - fucked_from_behind
+  - sex_from_behind
+  - taken_from_behind
+  implications:
+  - sex
+- canonical: ring_piercing
+  category: general
+  aliases: []
+  implications:
+  - piercing
+- canonical: bottomless
+  category: general
+  aliases:
+  - botomless
+  - bottomles
+  - no_bottoms
+  implications:
+  - clothed
+- canonical: femboy
+  category: general
+  aliases:
+  - effeminate
+  - fem-boy
+  - fem_boy
+  - femboi
+  - femboy/female
+  - femboy/male
+  - femboy_on_female
+  - femboy_on_male
+  - femboys
+  - feminine_male
+  - femmeboy
+  - girly
+  - girly/female
+  - girly/male
+  - girly_boi
+  - girly_boy
+  - girlyboi
+  - girlyboy
+  - otoko_no_ko
+  - sissy
+  - sissy-boy
+  - sissy_boy
+  - tomgirl
+  - twink
+  implications: []
+- canonical: bulge
+  category: general
+  aliases:
+  - buldge
+  - bulges
+  - cock_bulge
+  - crotch_bulge
+  - dick_bulge
+  - macro_bulge
+  - pants_bulge
+  - penis_bulge
+  - underwear_bulge
+  - visible_bulge
+  implications: []
+- canonical: food
+  category: general
+  aliases:
+  - food_porn
+  implications: []
+- canonical: submissive
+  category: general
+  aliases:
+  - sub
+  - sub/sub
+  - submisive
+  - submission
+  - submissiv
+  - submissive/submissive
+  - submissive_non-humanoid_creature
+  - submissive_sister
+  - submissive_wolf
+  implications: []
+- canonical: orange_fur
+  category: general
+  aliases:
+  - apricot_fur
+  - orangefur
+  implications:
+  - fur
+  - orange_body
+- canonical: dominant
+  category: general
+  aliases:
+  - dom
+  - dominance
+  - dominant_father
+  - dominant_non-humanoid_creature
+  - dominate
+  - dominated
+  - dominating
+  - domination
+  - domme
+  - dommy
+  - student_dominating_teacher
+  - teacher_dominating_student
+  implications: []
+- canonical: masturbation
+  category: general
+  aliases:
+  - clopping
+  - fap
+  - fapping
+  - female_masturbation
+  - jacking_off
+  - jerk_off
+  - jerking_off
+  - male_masturbation
+  - masterbate
+  - masterbating
+  - masterbation
+  - mastrubation
+  - mastubating
+  - mastubration
+  - masturabation
+  - masturabtion
+  - masturbate
+  - masturbating
+  - masturbating_while_kissing
+  - masturbation_only
+  - maturbation
+  - onanism
+  - pawing
+  - pawing_off
+  - pleasuring_self
+  - schlick
+  - self-pleasure
+  - wank
+  - wanking
+  implications: []
+- canonical: canine_penis
+  category: general
+  aliases:
+  - canid_cock
+  - canid_penis
+  - canine-penis
+  - canine_cock
+  - canine_dick
+  - dog_cock
+  - dog_dick
+  - dog_penis
+  - dogcock
+  - fox_cock
+  - fox_dick
+  - fox_penis
+  - foxcock
+  - k9_cock
+  - k9_penis
+  - wolf_cock
+  - wolf_dick
+  - wolf_penis
+  - wolfcock
+  implications:
+  - animal_penis
+  - canine_genitalia
+- canonical: 4_toes
+  category: general
+  aliases:
+  - 4-toes
+  - 4_toe
+  - 4_toed
+  - 4t
+  - 4toed
+  - 4toes
+  - four-toed
+  - four-toes
+  - four_toe
+  - four_toed
+  - four_toes
+  - fourtoed
+  - fourtoes
+  implications:
+  - toes
+- canonical: fellatio
+  category: general
+  aliases:
+  - bj
+  - blow
+  - blow_job
+  - blow_jobs
+  - blowjob
+  - cock_sucking
+  - cocksucking
+  - dick_sucking
+  - dicksucking
+  - felatio
+  - felation
+  - fellation
+  - fellato
+  - muzzle_docking
+  - penis_sucking
+  - sucking_cock
+  - sucking_dick
+  - sucking_penis
+  implications:
+  - oral
+  - penile
+  - sex
+- canonical: seductive
+  category: general
+  aliases:
+  - looking_seductive
+  - seduce
+  - seducing
+  - seduction
+  - seductive_pose
+  - sultry
+  - sultry_pose
+  implications: []
+- canonical: young_anthro
+  category: general
+  aliases:
+  - anthro_cub
+  implications:
+  - anthro
+  - young
+- canonical: panties
+  category: general
+  aliases:
+  - knickers
+  - panites
+  - pantes
+  - pantie
+  - pantsu
+  - panty
+  implications:
+  - underwear
+- canonical: not_furry
+  category: general
+  aliases:
+  - no_furry
+  - non-furry
+  - non_furry
+  - nonfurry
+  - not-furry
+  - notfurry
+  implications: []
+- canonical: barefoot
+  category: general
+  aliases:
+  - bare_feet
+  - bare_foot
+  - bare_paw
+  - bare_paws
+  - barefeet
+  - barefooted
+  - barepaw
+  - barepaws
+  - bearfoot
+  implications:
+  - feet
+- canonical: cum_in_vagina
+  category: general
+  aliases:
+  - cum_in_pussy
+  - cum_inside_pussy
+  - implied_impregnation
+  - vaginal_creampie
+  - vaginal_cum
+  - vaginal_cumshot
+  implications:
+  - cum_inside
+- canonical: equine_genitalia
+  category: general
+  aliases: []
+  implications:
+  - animal_genitalia
+- canonical: huge_butt
+  category: general
+  aliases:
+  - ass_bigger_than_head
+  - ass_bigger_than_torso
+  - badonkadonk
+  - dump_truck_ass
+  - huge_ass
+  - huge_booty
+  - huge_but
+  implications:
+  - big_butt
+- canonical: accessory
+  category: general
+  aliases:
+  - accessories
+  implications: []
+- canonical: yellow_fur
+  category: general
+  aliases:
+  - blond_fur
+  - blonde_fur
+  - gold_fur
+  - golden_fur
+  - yellow_ruff
+  implications:
+  - fur
+  - yellow_body
+- canonical: purple_eyes
+  category: general
+  aliases:
+  - lavender_eyes
+  - lilac_eyes
+  - pruple_eyes
+  - purple_eye
+  - purple_iris
+  - purple_irises
+  - violet_eyes
+  implications: []
+- canonical: slightly_chubby
+  category: general
+  aliases:
+  - chubby
+  - paunch
+  - shubby
+  - slight_chubby
+  - slightly_fat
+  - slighty_chubby
+  implications: []
+- canonical: tan_fur
+  category: general
+  aliases:
+  - beige_fur
+  - burlywood_fur
+  - cream_fur
+  - peach_fur
+  - wheat_fur
+  implications:
+  - fur
+  - tan_body
+- canonical: pose
+  category: general
+  aliases:
+  - posing
+  - pse
+  - stance
+  implications: []
+- canonical: tree
+  category: general
+  aliases:
+  - trees
+  implications:
+  - plant
+- canonical: trio
+  category: general
+  aliases:
+  - triple
+  implications:
+  - group
+- canonical: licking
+  category: general
+  aliases:
+  - lick
+  - licks
+  - male_licking
+  - tongue_lick
+  implications:
+  - tongue
+- canonical: anthro_penetrating_anthro
+  category: general
+  aliases:
+  - a/p/a
+  - an-pene-an
+  implications:
+  - anthro_on_anthro
+  - anthro_penetrated
+  - anthro_penetrating
+  - sex
+- canonical: glistening
+  category: general
+  aliases:
+  - gleaming
+  - glossy
+  - lustrous
+  - satiny
+  - sheeny
+  implications: []
+- canonical: kneeling
+  category: general
+  aliases:
+  - knealing
+  - kneel
+  - kneeling_down
+  - on_knees
+  implications: []
+- canonical: thigh_highs
+  category: general
+  aliases:
+  - high_thighs
+  - highleg_stockings
+  - thigh-highs
+  - thigh_high
+  - thighhigh
+  - thighhighs
+  implications:
+  - legwear
+- canonical: bdsm
+  category: general
+  aliases:
+  - bsdm
+  implications: []
+- canonical: raised_tail
+  category: general
+  aliases:
+  - lift_tail
+  - lifted_tail
+  - lifting_tail
+  - lifts_tail
+  - raise_tail
+  - raised_tails
+  - raising_tail
+  - rasied_tail
+  - tail-raised
+  - tail_lift
+  - tail_lifted
+  - tail_lifting
+  - tail_raise
+  - tail_raised
+  - tail_raising
+  - tail_up
+  implications:
+  - tail
+- canonical: pink_body
+  category: general
+  aliases:
+  - light_pink_body
+  - pink_cat
+  - pink_dragon
+  - pink_fox
+  - pink_leopard
+  - pink_lion
+  implications: []
+- canonical: dripping
+  category: general
+  aliases:
+  - drip
+  implications: []
+- canonical: anthrofied
+  category: general
+  aliases:
+  - anthroified
+  - anthropomorphized
+  implications:
+  - anthro
+- canonical: cum_in_ass
+  category: general
+  aliases:
+  - anal_creampie
+  - anal_cum
+  - anal_cumshot
+  - creampied_anus
+  - cum_in_anus
+  - cum_in_butt
+  - cum_inside_ass
+  implications:
+  - cum_inside
+- canonical: open_smile
+  category: general
+  aliases:
+  - open_mouth_smile
+  implications:
+  - open_mouth
+  - smile
+- canonical: tail_markings
+  category: general
+  aliases:
+  - tail_markigns
+  - tail_marking
+  - tails_marking
+  - tails_markings
+  implications:
+  - markings
+  - tail
+- canonical: cleavage
+  category: general
+  aliases:
+  - absolute_cleavage
+  - clevage
+  - overboob
+  - top_breast
+  implications:
+  - breasts
+  - clothed
+- canonical: chest_tuft
+  category: general
+  aliases:
+  - black_chest_tuft
+  - blonde_chest_tuft
+  - blue_chest_tuft
+  - brown_chest_tuft
+  - chest_tuff
+  - chest_tufts
+  - cleavage_tuft
+  - cleavage_tufts
+  - dark_chest_tuft
+  - green_chest_tuft
+  - grey_chest_tuft
+  - light_chest_tuft
+  - monotone_chest_tuft
+  - multicolored_chest_tuft
+  - orange_chest_tuft
+  - pink_chest_tuft
+  - purple_chest_tuft
+  - rainbow_chest_tuft
+  - red_chest_tuft
+  - tan_chest_tuft
+  - two_tone_chest_tuft
+  - white_chest_tuft
+  implications:
+  - tuft
+- canonical: hooves
+  category: general
+  aliases:
+  - gooves
+  - hooeves
+  - hoof
+  - hoof_feet
+  - hoofed
+  - hoofes
+  - hoofs
+  - hoov
+  - hoove
+  - hooved
+  - hooved_feet
+  - hoovs
+  - hoves
+  - monotone_hooves
+  implications: []
+- canonical: sex_toy
+  category: general
+  aliases:
+  - black_sex_toy
+  - blue_sex_toy
+  - brown_sex_toy
+  - green_sex_toy
+  - grey_sex_toy
+  - orange_sex_toy
+  - pink_sex_toy
+  - purple_sex_toy
+  - red_sex_toy
+  - sex-toy
+  - sex_toys
+  - sextoy
+  - sextoys
+  - tan_sex_toy
+  - teal_sex_toy
+  - white_sex_toy
+  - yellow_sex_toy
+  implications: []
+- canonical: red_hair
+  category: general
+  aliases:
+  - long_red_hair
+  - red)hair
+  - red-hair
+  - red_head
+  - redhair
+  - redhead
+  - short_red_hair
+  implications:
+  - hair
+- canonical: partially_clothed
+  category: general
+  aliases:
+  - clothed_partially
+  - mostly_dressed
+  - open_clothes
+  - partial_clothing
+  - partially_dressed
+  - partially_naked
+  - partially_nude
+  - partially_undressed
+  - partialy_clothed
+  - partly_clothed
+  - semi-naked
+  - semi-nude
+  - semi_naked
+  - semi_nude
+  implications:
+  - clothed
+- canonical: 3_toes
+  category: general
+  aliases:
+  - 3-toes
+  - 3_toe
+  - 3_toed
+  - 3t
+  - 3toed
+  - 3toes
+  - three-toed
+  - three-toes
+  - three_toe
+  - three_toed
+  - three_toes
+  - threetoed
+  - threetoes
+  - tridactyl
+  implications:
+  - toes
+- canonical: topless
+  category: general
+  aliases:
+  - bottomwear_only
+  - no_top
+  - toples
+  implications:
+  - clothed
+- canonical: equine_penis
+  category: general
+  aliases:
+  - equine_cock
+  - equine_dick
+  - equine_prick
+  - equined_penis
+  - horse-cock
+  - horse-dick
+  - horse-hung
+  - horse-prick
+  - horse_cock
+  - horse_dick
+  - horse_hung
+  - horse_penis
+  - horse_prick
+  - horsecock
+  - horsecocks
+  - horsedick
+  - horsehung
+  - horseprick
+  - inexplicable_horsecock
+  implications:
+  - animal_penis
+  - equine_genitalia
+- canonical: weapon
+  category: general
+  aliases:
+  - weaponry
+  - weapons
+  implications: []
+- canonical: makeup
+  category: general
+  aliases:
+  - make-up
+  - make_up
+  implications: []
+- canonical: non-mammal_breasts
+  category: general
+  aliases:
+  - boobsnake
+  - nmb
+  - non-mammal_breast
+  - non-mammalian_breast
+  - non-mammalian_breasts
+  - non_mammal_breast
+  - non_mammal_breasts
+  - non_mammalian_breasts
+  - snitties
+  implications:
+  - breasts
+- canonical: pupils
+  category: general
+  aliases:
+  - black_pupils
+  - round_pupils
+  implications: []
+- canonical: sharp_teeth
+  category: general
+  aliases:
+  - needle-like_teeth
+  - pointed_teeth
+  - pointy_teeth
+  - spiked_teeth
+  - spiky_teeth
+  implications:
+  - teeth
+- canonical: black_clothing
+  category: general
+  aliases:
+  - black_clothes
+  implications:
+  - clothing
+- canonical: presenting_hindquarters
+  category: general
+  aliases:
+  - butt_presenting
+  - only_showing_ass
+  - presenting_ass
+  - presenting_behind
+  - presenting_booty
+  - presenting_butt
+  - presenting_hindquarter
+  - presenting_rear
+  - showing_ass
+  - showing_butt
+  - showing_hindquarters
+  - showing_rear
+  implications:
+  - butt
+  - presenting
+- canonical: necklace
+  category: general
+  aliases:
+  - necklaces
+  - neckless
+  implications:
+  - jewelry
+- canonical: membrane_(anatomy)
+  category: general
+  aliases:
+  - membrane
+  - membrane_(feature)
+  - membranes
+  - membranous
+  - membranous_anatomy
+  - membranous_skin
+  - membranous_structure
+  - membranus
+  - syndactyly
+  - webbing_(anatomy)
+  - webbing_(feature)
+  - webbing_anatomy
+  implications: []
+- canonical: inner_ear_fluff
+  category: general
+  aliases:
+  - animal_ear_fluff
+  - ear_fluff
+  - fur_in_ears
+  - ief
+  - inner-ear_fluff
+  - inner_ear_tuft
+  - inner_ear_tufts
+  implications:
+  - tuft
+- canonical: short_hair
+  category: general
+  aliases:
+  - short_haircut
+  implications:
+  - hair
+- canonical: pubes
+  category: general
+  aliases:
+  - bushy_pubes
+  - crotch_hair
+  - furry_pubes
+  - hairy_crotch
+  - pubic_fluff
+  - pubic_fur
+  - pubic_hair
+  - pubic_hairs
+  - pubic_tuft
+  - pubichair
+  - public_hair
+  - public_tuft
+  - pussy_hair
+  implications: []
+- canonical: two_tone_fur
+  category: general
+  aliases:
+  - two-tone-fur
+  - two-tone_fur
+  - two-toned_fur
+  - two_toned_fur
+  implications:
+  - multicolored_fur
+  - two_tone_body
+- canonical: mammal
+  category: species
+  aliases:
+  - cetancodont
+  - cetancodontamorph
+  - mamal
+  - mammal_(species)
+  - mammale
+  - mammalian
+  - mammals
+  - mammel
+  - mammmal
+  - panda_panda
+  - ungulate
+  implications: []
+- canonical: canid
+  category: species
+  aliases:
+  - caind
+  - candid_(species)
+  - canidae
+  - canide
+  - canids
+  - canind
+  implications:
+  - mammal
+- canonical: canine
+  category: species
+  aliases:
+  - articwolfgirl
+  - canines
+  - caninie
+  - cannine
+  - cnaine
+  - dog_boy
+  - dog_girl
+  - dogboy
+  - doggirl
+  - fox_boy
+  - fox_girl
+  - foxboy
+  - foxgirl
+  - k9
+  - lap-dog
+  - mongrel
+  - vixengirl
+  - wolf_boy
+  - wolf_girl
+  - wolfboy
+  - wolfgirl
+  implications:
+  - canid
+- canonical: felid
+  category: species
+  aliases:
+  - catshepherd
+  - catsona
+  - felidae
+  - felids
+  - felind
+  implications:
+  - mammal
+- canonical: canis
+  category: species
+  aliases: []
+  implications:
+  - canine
+- canonical: scalie
+  category: species
+  aliases:
+  - draconian
+  - draconic
+  - reptilian
+  - reptilians
+  - reptillian
+  - scaley
+  - scalies
+  - scaly
+  implications: []
+- canonical: mythological_creature
+  category: species
+  aliases:
+  - mythical_creature
+  implications:
+  - mythology
+- canonical: pokemon_(species)
+  category: species
+  aliases:
+  - baby_pokemon
+  - "baby_pok\xE9mon"
+  - pokefur
+  - pokemon(species)
+  - pokemon_(creature)
+  - pokemon_(creatures)
+  - pokemon_baby
+  - pokemon_creatures
+  - pokemon_pred
+  - pokemon_prey
+  - pokemon_species
+  - pokesex
+  - "pok\xE9mon(species)"
+  - "pok\xE9mon_(creature)"
+  - "pok\xE9mon_(creatures)"
+  - "pok\xE9mon_(species)"
+  - "pok\xE9mon_baby"
+  - "pok\xE9mon_creatures"
+  - "pok\xE9mon_species"
+  - strange_shiny_pokemon
+  implications:
+  - pokemon
+- canonical: feline
+  category: species
+  aliases:
+  - cat_boy
+  - cat_girl
+  - catboy
+  - catgirl
+  - feline_(species)
+  - felines
+  - fleine
+  - neco
+  implications:
+  - felid
+- canonical: humanoid
+  category: species
+  aliases:
+  - adult_humanoid
+  - humaniod
+  - humanoid_(species)
+  - humanoid_being
+  - humanoid_mimiff
+  - humanoid_nation
+  - humanoid_on_non-humanoid_creature
+  - humanoid_student
+  - humanoid_teacher
+  - humanoide
+  - humanoids
+  - huminoid
+  - hummanoid
+  - mobian_humanoid
+  implications: []
+- canonical: equid
+  category: species
+  aliases:
+  - equidae
+  implications:
+  - mammal
+- canonical: fox
+  category: species
+  aliases:
+  - angel_fox
+  - broken_fox
+  - femboy_fox
+  - four-tailed_kitsune
+  - four_tailed_kitsune
+  - fox's
+  - fox/vixen
+  - fox_(species)
+  - foxes
+  - foxkit
+  - kistune
+  - kitsune
+  - kitsune_(fox)
+  - male_fox
+  - mobian_fox
+  - sand_fox
+  - spieces:fox
+  - vixen
+  - winged_fox
+  - zorro
+  - "\u72D0"
+  implications:
+  - canine
+- canonical: human
+  category: species
+  aliases:
+  - adult_human
+  - black_human
+  - bottom_human
+  - brown_human
+  - clavat
+  - furry_and_human
+  - homo_sapiens
+  - homo_sapiens_sapiens
+  - human_child
+  - human_on_non-humanoid_creature
+  - human_student
+  - human_teacher
+  - humans
+  - hume
+  - hyur
+  - non-humanoid_creature_on_human
+  - nord
+  - white_human
+  implications:
+  - mammal
+- canonical: equine
+  category: species
+  aliases:
+  - equines
+  - equoid
+  - horse_girl
+  implications:
+  - equid
+- canonical: mythological_scalie
+  category: species
+  aliases: []
+  implications:
+  - mythological_creature
+  - scalie
+- canonical: dragon
+  category: species
+  aliases:
+  - derg
+  - dragon_(species)
+  - dragon_girl
+  - dragon_on_anthro
+  - dragon_on_dragon
+  - dragon_on_feral
+  - dragon_prey
+  - dragonboy
+  - dragoness
+  - dragongirl
+  - dragonoid
+  - dragons
+  - drake_(species)
+  - fire_dragon
+  - larger_dragon
+  - mobian_dragon
+  implications:
+  - mythological_scalie
+- canonical: domestic_dog
+  category: species
+  aliases:
+  - canis_lupus_familiaris
+  - dog
+  - doggie
+  - doggies
+  - doggo
+  - dogs
+  - hound
+  - mobian_dog
+  - mutt
+  - northern_dog
+  - pup
+  - pupper
+  - sato_(dog)
+  - sato_dog
+  - skinny_dog
+  - small_dog
+  implications:
+  - canis
+- canonical: wolf
+  category: species
+  aliases:
+  - angel_wolf
+  - angelic_wolf
+  - gray_wolf
+  - grey_wolf
+  - ice_wolf_(species)
+  - lupine
+  - merky_taiga_wolf
+  - mobian_wolf
+  - north_american_grey_wolf
+  - saber_wolf
+  - sabertooth_wolf
+  - timber_wolf
+  - timberwolf
+  - whitewolf_(species)
+  - winged_wolf
+  - wold
+  - wolfess
+  - wolfess_(species)
+  - wolfs
+  - wolve
+  - wolves
+  implications:
+  - canis
+- canonical: felis
+  category: species
+  aliases: []
+  implications:
+  - feline
+- canonical: domestic_cat
+  category: species
+  aliases:
+  - cat
+  - cats
+  - domestic_long-haired_cat
+  - domesticated_cat
+  - egyptian_cat
+  - house_cat
+  - housecat
+  - kitty
+  - mobian_cat
+  - neko
+  - winged_cat
+  - "\u732B"
+  implications:
+  - felis
+- canonical: lagomorph
+  category: species
+  aliases:
+  - bunnyboy
+  - bunnygirl
+  - lagamorph
+  - lagomoprh
+  - lagomorpha
+  - lapine
+  - leporine
+  - logomorph
+  - rabbit_boy
+  - rabbit_girl
+  - rabbitboy
+  - rabbitgirl
+  - unirabbit
+  implications:
+  - mammal
+- canonical: reptile
+  category: species
+  aliases:
+  - lizard_girl
+  - repitle
+  - reptiles
+  implications:
+  - scalie
+- canonical: leporid
+  category: species
+  aliases:
+  - leoprid
+  - leporidae
+  implications:
+  - lagomorph
+- canonical: rabbit
+  category: species
+  aliases:
+  - bunnies
+  - bunny
+  - bunny_rabbit
+  - lapin
+  - male_rabbit
+  - mobian_bunny
+  - mobian_rabbit
+  - rabbit_(species)
+  - rabbits
+  - slut_rabbit
+  implications:
+  - leporid
+- canonical: pantherine
+  category: species
+  aliases:
+  - big_cat
+  - leonine
+  - panter
+  - panther
+  - panthers
+  - panthress
+  - phanter
+  - snow_panther
+  - tiger_girl
+  implications:
+  - felid
+- canonical: bovid
+  category: species
+  aliases:
+  - bovidae
+  implications:
+  - mammal
+- canonical: avian
+  category: species
+  aliases:
+  - avain
+  - avians
+  - bird_girl
+  - mobian_bird
+  implications: []
+- canonical: horse
+  category: species
+  aliases:
+  - battlehorse
+  - brumby
+  - dun_horse
+  - horse_(species)
+  - horses
+  - kiger_mustang
+  - mare
+  - mustang_(horse)
+  - palomino_horse
+  - racehorse
+  - stallion
+  - stallions
+  - war_horse
+  - warriorhorse
+  - wingless_pegasus
+  - work_horse
+  implications:
+  - equine
+- canonical: mythological_equine
+  category: species
+  aliases: []
+  implications:
+  - equine
+  - mythological_creature
+- canonical: hybrid
+  category: species
+  aliases:
+  - aardeer
+  - alicorn_husky_hybrid
+  - angel_fosky
+  - angelchu
+  - animal_hybrid
+  - aquadox
+  - arctic_folf
+  - arctic_pegafox
+  - arctic_pegafox_(species)
+  - bat_rabbit
+  - batcoon
+  - batcoon_mimiff
+  - batdragon
+  - batfox
+  - bear_fox
+  - bearbull
+  - bearshark
+  - bearwolf
+  - bee_cat
+  - bird_hybrid
+  - bolfy
+  - botter
+  - bragon
+  - buizanine_(species)
+  - bullbear
+  - bullgon
+  - buncat
+  - buncoon
+  - bunk
+  - bunnicorn
+  - bunnycoon
+  - bunnydragon
+  - bunnywolf
+  - bunwolf
+  - burrdog
+  - burrdog_(species)
+  - cabbit
+  - caidoberman
+  - cangaroo
+  - canguroo
+  - cat-bird
+  - cat-shark
+  - cat/wolf
+  - cat/wolf_hybrid
+  - cat_dragon
+  - cat_fish_(pun)
+  - cat_fox
+  - cataroo
+  - catcoon_(species)
+  - catdragon_(species)
+  - catfox
+  - cathorse
+  - catibou
+  - catox
+  - catpony
+  - catpup
+  - catskunk
+  - catspider
+  - cattolf
+  - catvixen
+  - catxolotl
+  - cheefox
+  - cheeger
+  - cheetox
+  - cheolf
+  - cheolfs
+  - chicken_gryphon
+  - chilla_fox
+  - cholf
+  - chox
+  - colf
+  - cowbee
+  - cowbold
+  - coyfox
+  - coyogon
+  - coyote_dragon
+  - crocofox
+  - crossbreed
+  - crox
+  - croxen
+  - cusky
+  - dalox
+  - darflox
+  - deer-crossfox
+  - deer_canine_hybrid
+  - deercat
+  - deerfox
+  - deergon
+  - deerhorse
+  - deeroo
+  - deerwolf_hybrid
+  - demfox
+  - demon_fox
+  - demon_lion
+  - demon_wolf
+  - demonhusky
+  - demonic_fox_dragon
+  - demonic_lion_(species)
+  - demonskunk
+  - demonwolf
+  - dergal
+  - dingofox
+  - dirdwolf
+  - diregon
+  - dobber_deer
+  - dober_deer
+  - dober_rat
+  - dogfox
+  - doggot
+  - donkeroo
+  - dox
+  - doxen
+  - draard
+  - drabbit_(hybrid)
+  - dracat
+  - draco_rat
+  - dracobat
+  - dracobra
+  - dracogriff
+  - dracogryph
+  - dracohorse
+  - dracolf
+  - draconicorn
+  - dracoon
+  - dracophin
+  - dracoraptor
+  - dracorat_(species)
+  - dracorn
+  - dracovix
+  - dracowolf
+  - dracubus
+  - dragadillo
+  - dragark
+  - draginni
+  - dragnine
+  - dragolf
+  - dragon-goat
+  - dragon-ox
+  - dragon-wolf
+  - dragon-zebra
+  - dragon/deer
+  - dragon/hyena_hybrid
+  - dragon_cat
+  - dragon_fox
+  - dragon_hybrid
+  - dragon_lion
+  - dragon_shark
+  - dragon_turtle
+  - dragon_wolf
+  - dragon_wolf_fox
+  - dragonbat
+  - dragonbear
+  - dragoncat
+  - dragonchu
+  - dragondog
+  - dragonfox
+  - dragonhorse
+  - dragonicorn
+  - dragonine
+  - dragonraptor
+  - dragonwolf
+  - dragonwolfhybrid
+  - dragorca
+  - dragorse
+  - dragosect
+  - dragox
+  - dragriffin
+  - drakitterwolf
+  - draquine
+  - drat
+  - dratter
+  - dravali
+  - drawolf
+  - draxen
+  - drayenote
+  - driger
+  - drolf
+  - drotter
+  - drox
+  - drusky
+  - dryeena
+  - drygerskunk
+  - dusky
+  - eeldragon
+  - fabbit
+  - falcon_hybrid
+  - faxby
+  - feasox
+  - feazox
+  - feer
+  - felinfox
+  - fenfolf
+  - fennec_cat
+  - fennec_lion
+  - fennecoon
+  - fennmink
+  - fensky
+  - feox
+  - ferrox
+  - fiox
+  - fishcat
+  - fishdog
+  - fishfox
+  - flottsky
+  - fobbit
+  - folf
+  - folfbold
+  - folfsky
+  - foo_doggon
+  - forgi
+  - fosky
+  - fot
+  - fotter
+  - fougar
+  - fox-cat
+  - fox-hyena
+  - fox-moth
+  - fox-wolf
+  - fox/cat
+  - fox/cat/hybred
+  - fox/cat/hybrid
+  - fox/cat_hybrid
+  - fox/jerboa
+  - fox/wolf
+  - fox_bat
+  - fox_corgi
+  - fox_dog
+  - fox_dragon
+  - fox_goat
+  - fox_panda
+  - fox_pony
+  - fox_slug
+  - foxal
+  - foxaroo
+  - foxat
+  - foxbat
+  - foxbat_hybrid
+  - foxbee
+  - foxbird
+  - foxcario
+  - foxcat
+  - foxcoon
+  - foxcoon_(species)
+  - foxda
+  - foxdeer
+  - foxdemon
+  - foxdog
+  - foxdragon
+  - foxger
+  - foxgon
+  - foxhemoth
+  - foxhog
+  - foxhyena
+  - foxibou
+  - foxkitty
+  - foxleopard
+  - foxmoogle
+  - foxmutt
+  - foxoon
+  - foxote
+  - foxotter
+  - foxpanda
+  - foxroo
+  - foxsky
+  - foxttercoon
+  - foxxgoat
+  - foyote
+  - fraccoon
+  - froslosion
+  - fruitbatcat
+  - fusky
+  - fusky_(species)
+  - fynx
+  - gatorfox_(species)
+  - gatorsnake
+  - gatox
+  - giramon
+  - goat/horse
+  - goat_cat_fox
+  - goat_dog
+  - goat_gorilla
+  - goatbun
+  - goatfox
+  - griffox
+  - growldramon
+  - half-fox
+  - half-otter
+  - half-snake
+  - half_dragon
+  - hedgefox
+  - hedgewolf
+  - hibrid
+  - horse-lynx
+  - horse_goat
+  - horsebird
+  - hubrid
+  - human_hybrid
+  - huskena
+  - huskoon
+  - husky-wolf
+  - husky_rabbit
+  - huskyena
+  - huskyfox
+  - hybid
+  - hybird
+  - hybrid_(species)
+  - hybrid_cat
+  - hybrid_fur
+  - hybrid_specie
+  - hybrid_species
+  - hybrid_wolf_phoenix
+  - hybride
+  - hybrids
+  - hydrabbit
+  - hyenadeer
+  - hyenapuss
+  - hyenkel
+  - hypno_(lopunny)
+  - hyrbid
+  - hyrid
+  - ice_draconic_horse
+  - iguolf
+  - jexouium
+  - kaibun
+  - kangayote
+  - kangootter
+  - kardox
+  - kecha_wox
+  - kiraptagon
+  - kitsuragon
+  - kitty/otter
+  - kittydog(species)
+  - kittydog_(species)
+  - kittydragon
+  - kittyfox
+  - kittypup
+  - koicat
+  - kotterox
+  - kowbold
+  - krystariomon
+  - lemurbat
+  - leobbog
+  - leofox
+  - leogarg
+  - leolynx
+  - leopanda
+  - leopard_dragon
+  - ligerwolf
+  - ligon
+  - liolf
+  - lionbear
+  - liondragon
+  - lionfox
+  - lionroo
+  - lionwolf
+  - liox
+  - lizard-mouse
+  - loporeon
+  - lotteron
+  - lucachu
+  - lucaridon
+  - luskandox
+  - lynx/domestic_cat
+  - macunny
+  - mewgia_(species)
+  - mewlava
+  - mix
+  - mixed_species
+  - monkey-bird
+  - monkeybird
+  - moth_dragon
+  - multiple_species
+  - mystgoose
+  - octoraccoon
+  - octoskunk
+  - octowolf
+  - orca-dragon
+  - orca_dragon
+  - orcadragon
+  - orcagon
+  - orcat
+  - orcdragon
+  - otsky
+  - ottagon
+  - otter/wolf
+  - otter_bat
+  - otter_hybrid
+  - otterbat
+  - otterbear
+  - ottercat
+  - otterdog
+  - otterfox
+  - otteritty
+  - otteroo
+  - otterroo
+  - ottershark
+  - ottox
+  - ottsky
+  - owl_gryphon
+  - owlox
+  - pancoon
+  - panda-dragon
+  - pandafox
+  - pandafox_(species)
+  - pandapard
+  - pandauren
+  - pandragon
+  - pangoose
+  - panther_wolf_hybrid
+  - phoegon
+  - pikachumbreon
+  - planedragon
+  - protocrow
+  - rabbit-dragon
+  - rabbit_wolf
+  - rabbitcat
+  - raccat
+  - raccoon_fox
+  - raigon
+  - rampox
+  - ratcat
+  - ratdragon
+  - ratdragon_(species)
+  - ratwolf
+  - renaskunk
+  - rodragon
+  - roofox
+  - roogryph
+  - roolacine
+  - roosky
+  - rosechu_(species)
+  - saber_cat
+  - saber_dog
+  - saber_lynx
+  - sabercat
+  - saberdragon
+  - sabershark
+  - sabersune
+  - saberwolf
+  - sableroo
+  - salugia
+  - sandlava
+  - scaled_fox
+  - schnolf
+  - sergal-fox
+  - sergal_dragon
+  - sergal_moth
+  - serpent_peahen
+  - shargon
+  - shark/fox
+  - shark_dog
+  - shark_fox
+  - shark_pony
+  - sharkdragon
+  - sharkfox
+  - sharkgon
+  - sharkpony
+  - sharktopus
+  - shennec
+  - shepcoon
+  - shepherds_fox
+  - shox
+  - shoxy
+  - skoon_(species)
+  - skotter
+  - skox
+  - skunk-bat
+  - skunk-bear
+  - skunk-fox
+  - skunk_bunny
+  - skunk_cat
+  - skunk_fox
+  - skunk_pony
+  - skunk_rat
+  - skunkaroo
+  - skunkat
+  - skunkbax
+  - skunkbunny
+  - skunkcoon
+  - skunkfox
+  - skunkkangaroo
+  - skunkmink
+  - skunkpony
+  - skunksum
+  - skunkubus
+  - skunkwolf
+  - skunx
+  - skusky
+  - skwolf
+  - slime_hybrid
+  - snail_cat
+  - snailkit
+  - snake_dragon
+  - snolf
+  - snowpanda
+  - snowval
+  - sonichu_(species)
+  - sox
+  - spiderhorse
+  - spidox
+  - squabit
+  - squabit_(species)
+  - squid-skunk
+  - squidfox
+  - squirrel_dragon
+  - swolfpert
+  - sylbreon
+  - sylviark
+  - sylvox
+  - tabbit
+  - tabby-twogon
+  - tegu_dragon
+  - teragon
+  - tifox
+  - tiger-bear
+  - tiger-striped_skunk
+  - tiger/otter_hybrid
+  - tigerbunny
+  - tigerchu
+  - tigerdog
+  - tigerfox
+  - tigerskunk
+  - tigerwolf
+  - tigotter
+  - tigox
+  - tixagon
+  - tolf
+  - totter
+  - toucat
+  - tox
+  - tycoon
+  - umbreon_cat
+  - umbrox
+  - unibunny
+  - unigon
+  - unisky
+  - vaporunny
+  - velocelox
+  - vulpeer
+  - wadger
+  - wagon(species)
+  - wagon_(species)
+  - wallaroo
+  - weagle
+  - werehybrid
+  - werewolf_dragon
+  - wokitah
+  - wolcon
+  - wolf-cat
+  - wolf-dragon
+  - wolf-tail_hare
+  - wolf-tailed_hare
+  - wolf/panther_hybrid
+  - wolf/tiger_hybrid
+  - wolf_bat
+  - wolf_dragon
+  - wolf_falcon
+  - wolf_falcon_hybrid
+  - wolf_fox
+  - wolf_hybrid
+  - wolf_panda
+  - wolf_rabbit
+  - wolf_tailed_hare
+  - wolf_tiger
+  - wolfa
+  - wolfbear
+  - wolfbird
+  - wolfbreon
+  - wolfbreon_(hybrid)
+  - wolfbreon_(species)
+  - wolfbull
+  - wolfbunny
+  - wolfcat
+  - wolfcoon
+  - wolfdagon
+  - wolfdragon
+  - wolfdrake
+  - wolffox
+  - wolfhawk
+  - wolflope
+  - wolfmouse
+  - wolfox
+  - wolfrabbit
+  - wolfroo
+  - wolfshark
+  - wolfskunk
+  - wolfsune
+  - wolfvern
+  - wolfyena
+  - wolger
+  - wolgon
+  - wolingo
+  - wolphin
+  - wolther
+  - wolvern
+  - wolviex
+  - wolyena
+  - woox
+  - worgi
+  - worval
+  - wotter_(hybrid)
+  - wox
+  - woyote
+  - wuffoon
+  - wulfion
+  - wunnyroo
+  - wynx
+  - xoox
+  - yveltvoir
+  - zorocario
+  - zorupix
+  implications: []
+- canonical: rodent
+  category: species
+  aliases:
+  - rodents
+  implications:
+  - mammal
+- canonical: animal_humanoid
+  category: species
+  aliases:
+  - aniamal_humanoid
+  - humanoid_animal
+  - kemonomimi
+  implications:
+  - humanoid
+- canonical: generation_1_pokemon
+  category: species
+  aliases:
+  - gen_1_pokemon
+  - "gen_1_pok\xE9mon"
+  - gen_one_pokemon
+  - "gen_one_pok\xE9mon"
+  - "generation_1_pok\xE9mon"
+  - generation_i_pokemon
+  - "generation_i_pok\xE9mon"
+  - "generation_one_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: aquatic
+  category: species
+  aliases:
+  - marine
+  - marine_animal
+  - sea_creature
+  implications: []
+- canonical: bird
+  category: species
+  aliases:
+  - aves
+  - birb
+  - bird_of_prey
+  - birds
+  - birds_of_prey
+  - raptor_(bird)
+  implications:
+  - avian
+- canonical: bear
+  category: species
+  aliases:
+  - anthro_ursid
+  - bear_girl
+  - bears
+  - ursid
+  implications:
+  - mammal
+- canonical: demon
+  category: species
+  aliases:
+  - afreet
+  - afrit
+  - afrite
+  - daemini
+  - daemon
+  - daemonette
+  - deamon
+  - demon_boy
+  - demon_girl
+  - demoness
+  - demonette
+  - demongirl
+  - demons
+  - devil
+  - efreet
+  - efrit
+  - efrite
+  - fiend
+  - huccubus
+  - ifreet
+  - ifrit
+  - inccubi
+  - inccubus
+  - incubi
+  - incubus
+  - lesser_incubi
+  - lesser_incubus
+  - lesser_succubi
+  - lesser_succubus
+  - lilin
+  - lust_demon
+  - lusty_demon
+  - sex_demon
+  - sex_devil
+  - succubi
+  - succubus_pony
+  - succubust
+  - tarrasccubus
+  implications: []
+- canonical: caprine
+  category: species
+  aliases:
+  - caprid
+  - caprinae
+  - goat-antelope
+  - goat_antelope
+  implications:
+  - bovid
+- canonical: pony
+  category: species
+  aliases:
+  - ponies
+  implications:
+  - horse
+- canonical: generation_4_pokemon
+  category: species
+  aliases:
+  - gen_4_pokemon
+  - "gen_4_pok\xE9mon"
+  - gen_four_pokemon
+  - "gen_four_pok\xE9mon"
+  - "generation_4_pok\xE9mon"
+  - "generation_four_pok\xE9mon"
+  - generation_iv_pokemon
+  - "generation_iv_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: unicorn
+  category: species
+  aliases:
+  - unicorn_pony
+  - unicorns
+  - zebracorn
+  implications:
+  - equid
+  - equine
+  - horn
+  - mythological_equine
+- canonical: mammal_humanoid
+  category: species
+  aliases:
+  - cetancodont_humanoid
+  - cetancodontamorph_humanoid
+  implications:
+  - animal_humanoid
+  - mammal
+- canonical: true_fox
+  category: species
+  aliases:
+  - vulpes
+  - vulpine
+  - vulpines
+  implications:
+  - fox
+- canonical: arthropod
+  category: species
+  aliases:
+  - anthropod
+  - bug
+  - bugs
+  - insectoid
+  implications: []
+- canonical: tiger
+  category: species
+  aliases:
+  - golden_tabby_tiger
+  - golden_tiger
+  - maltese_tiger
+  - snow_tiger
+  - tigeress
+  - tigers
+  implications:
+  - pantherine
+- canonical: deer
+  category: species
+  aliases:
+  - cervid
+  - cervidae
+  - cervide
+  - deer_girl
+  - mobian_deer
+  - stag
+  implications:
+  - mammal
+- canonical: murid
+  category: species
+  aliases:
+  - muridae
+  implications:
+  - rodent
+- canonical: fish
+  category: species
+  aliases:
+  - fish_boy
+  - fish_girl
+  - fishboy
+  - fishes
+  - fishgirl
+  - fishman
+  - fishmen
+  implications:
+  - aquatic
+- canonical: murine
+  category: species
+  aliases:
+  - mouse_boy
+  - mouse_girl
+  - mouseboy
+  - mousegirl
+  implications:
+  - murid
+- canonical: generation_3_pokemon
+  category: species
+  aliases:
+  - gen_3_pokemon
+  - "gen_3_pok\xE9mon"
+  - gen_three_pokemon
+  - "gen_three_pok\xE9mon"
+  - "generation_3_pok\xE9mon"
+  - generation_iii_pokemon
+  - "generation_iii_pok\xE9mon"
+  - "generation_three_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: alien
+  category: species
+  aliases:
+  - alien_girl
+  - alien_penetrated
+  - alien_prey
+  - aliengirl
+  - aliens
+  - extraterrestrial
+  - human_on_alien
+  - human_penetrating_alien
+  - larger_alien
+  - muscular_alien
+  implications: []
+- canonical: generation_2_pokemon
+  category: species
+  aliases:
+  - gen_2_pokemon
+  - "gen_2_pok\xE9mon"
+  - gen_two_pokemon
+  - "gen_two_pok\xE9mon"
+  - "generation_2_pok\xE9mon"
+  - generation_ii_pokemon
+  - "generation_ii_pok\xE9mon"
+  - "generation_two_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: robot
+  category: species
+  aliases:
+  - droid
+  - female_robot
+  - fembot
+  - robot_girl
+  - robotgirl
+  - robots
+  implications: []
+- canonical: eeveelution
+  category: species
+  aliases:
+  - all_eight_eeveelutions
+  - eeveelutions
+  implications:
+  - pokemon_(species)
+- canonical: generation_6_pokemon
+  category: species
+  aliases:
+  - gen_6_pokemon
+  - "gen_6_pok\xE9mon"
+  - gen_six_pokemon
+  - "gen_six_pok\xE9mon"
+  - "generation_6_pok\xE9mon"
+  - "generation_six_pok\xE9mon"
+  - generation_vi_pokemon
+  - "generation_vi_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: mustelid
+  category: species
+  aliases:
+  - anthro_mustelid
+  - mustelidae
+  - mustelids
+  implications:
+  - mammal
+- canonical: bovine
+  category: species
+  aliases:
+  - bovines
+  - ox
+  - oxen
+  implications:
+  - bovid
+- canonical: prehistoric_species
+  category: species
+  aliases:
+  - paleoart
+  - prehistoric_animal
+  - prehistoric_creatures
+  - prehistoric_mammal
+  implications: []
+- canonical: pegasus
+  category: species
+  aliases:
+  - pegasi
+  - pegasis
+  - pegasus_oc
+  - pegasus_pony
+  - pegaus
+  - pterippus
+  implications:
+  - equine
+  - mythological_equine
+  - wings
+- canonical: lion
+  category: species
+  aliases:
+  - african_lion
+  - desert_lion
+  - fat_lion
+  - feline-lion
+  - fire_lion
+  - lion_girl
+  - lioness
+  - lionesses
+  - lions
+  implications:
+  - pantherine
+- canonical: generation_5_pokemon
+  category: species
+  aliases:
+  - gen_5_pokemon
+  - "gen_5_pok\xE9mon"
+  - gen_five_pokemon
+  - "gen_five_pok\xE9mon"
+  - "generation_5_pok\xE9mon"
+  - "generation_five_pok\xE9mon"
+  - generation_v_pokemon
+  - "generation_v_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: goat
+  category: species
+  aliases:
+  - capra
+  - goats
+  implications:
+  - caprine
+- canonical: bat
+  category: species
+  aliases:
+  - bat/mammal
+  - bat_(animal)
+  - bat_(species)
+  - bat_girl
+  - bats
+  - chiroptera
+  - chiropteran
+  - mobian_bat
+  implications:
+  - mammal
+- canonical: earth_pony
+  category: species
+  aliases:
+  - earth_ponies
+  - earthponies
+  - earthpony
+  implications:
+  - my_little_pony
+  - pony
+- canonical: mythological_canine
+  category: species
+  aliases: []
+  implications:
+  - canine
+  - mythological_creature
+- canonical: digimon_(species)
+  category: species
+  aliases:
+  - champion_level_digimon
+  - champion_level_digimon_(species)
+  - data_type
+  - data_type_(species)
+  - data_type_digimon
+  - data_type_digimon_(species)
+  - fresh_level_digimon
+  - fresh_level_digimon_(species)
+  - in-training_level_digimon
+  - in-training_level_digimon_(species)
+  - mega_level_digimon
+  - mega_level_digimon_(species)
+  - rookie_level_digimon
+  - rookie_level_digimon_(species)
+  - ultimate_level_digimon
+  - ultimate_level_digimon_(species)
+  - vaccine_type
+  - vaccine_type_(species)
+  - vaccine_type_digimon
+  - vaccine_type_digimon_(species)
+  - virus_type
+  - virus_type_(species)
+  - virus_type_digimon
+  - virus_type_digimon_(species)
+  implications:
+  - digimon
+- canonical: shark
+  category: species
+  aliases:
+  - selachimorph
+  - selachimorpha
+  - sharks
+  implications:
+  - fish
+- canonical: legendary_pokemon
+  category: species
+  aliases:
+  - "legendary_pok\xE9mon"
+  - mythical_pokemon
+  - "mythical_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: lizard
+  category: species
+  aliases:
+  - lizards
+  - lizzard
+  implications:
+  - reptile
+- canonical: red_fox
+  category: species
+  aliases:
+  - anthro_red_fox
+  - red_foxes
+  - redfox
+  - siberian_fox
+  - vulpes-vulpes
+  - vulpes_vulpes
+  implications:
+  - true_fox
+- canonical: spitz
+  category: species
+  aliases:
+  - spitz_dog
+  - spitzen
+  - spitzen_dog
+  - spitzes
+  implications:
+  - domestic_dog
+- canonical: dinosaur
+  category: species
+  aliases:
+  - dino
+  - dino_girl
+  - dinogirl
+  - dinosaur_girl
+  - dinosaurs
+  implications:
+  - prehistoric_species
+  - reptile
+- canonical: snake
+  category: species
+  aliases:
+  - anthro_snake
+  - mobian_snake
+  - serpent
+  - snake_girl
+  - snakes
+  - snek
+  implications:
+  - reptile
+- canonical: eulipotyphlan
+  category: species
+  aliases: []
+  implications:
+  - mammal
+- canonical: generation_7_pokemon
+  category: species
+  aliases:
+  - gen_7_pokemon
+  - "gen_7_pok\xE9mon"
+  - gen_seven_pokemon
+  - "gen_seven_pok\xE9mon"
+  - "generation_7_pok\xE9mon"
+  - "generation_seven_pok\xE9mon"
+  - generation_vii_pokemon
+  - "generation_vii_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: hedgehog
+  category: species
+  aliases:
+  - hedgehogs
+  - mobian_hedgehog
+  implications:
+  - eulipotyphlan
+- canonical: mouse
+  category: species
+  aliases:
+  - mice
+  - mobian_mouse
+  - mouses
+  implications:
+  - murine
+- canonical: procyonid
+  category: species
+  aliases:
+  - procyonidae
+  implications:
+  - mammal
+- canonical: hyena
+  category: species
+  aliases:
+  - hyaena
+  - hyaenic
+  - hyaenid
+  - hyaenidae
+  - hyeena
+  - hyenas
+  - hyenid
+  - hynea
+  - mobian_hyena
+  - yeen
+  - yeena
+  implications:
+  - mammal
+- canonical: insect
+  category: species
+  aliases:
+  - bug_girl
+  - insect_girl
+  - insects
+  implications:
+  - arthropod
+- canonical: marsupial
+  category: species
+  aliases: []
+  implications:
+  - mammal
+- canonical: western_dragon
+  category: species
+  aliases:
+  - dragon_(europe)
+  - dragon_(european)
+  - dragon_(west)
+  - dragon_(western)
+  - europe_dragon
+  - european_dragon
+  - west_dragon
+  implications:
+  - dragon
+  - european_mythology
+  - scalie
+- canonical: pastoral_dog
+  category: species
+  aliases:
+  - livestock_dog
+  implications:
+  - domestic_dog
+- canonical: raccoon
+  category: species
+  aliases:
+  - bluecoon
+  - mobian_raccoon
+  - procyon
+  - procyon_lotor
+  - raccon
+  - raccoon_girl
+  - raccoon_pussy
+  - raccoons
+  - racoon
+  implications:
+  - procyonid
+- canonical: herding_dog
+  category: species
+  aliases:
+  - shepard_dog
+  - shephard_dog
+  - shepherd_dog
+  implications:
+  - pastoral_dog
+- canonical: cattle
+  category: species
+  aliases:
+  - bull
+  - bulls
+  - cow
+  - cows
+  - dairy_cow
+  - mobian_cattle
+  implications:
+  - bovine
+- canonical: monster
+  category: species
+  aliases:
+  - abomination
+  - female_monster
+  - monsters
+  implications: []
+- canonical: winged_unicorn
+  category: species
+  aliases:
+  - alicorn
+  - alicorn_oc
+  - alicorn_pony
+  - alicorns
+  - pegacorn
+  - pegacorns
+  - winged_unicorns
+  implications:
+  - equid
+  - equine
+  - horn
+  - mythological_equine
+  - wings
+- canonical: werecreature
+  category: species
+  aliases:
+  - lycan
+  - were
+  - were-hybrid
+  - were_beast
+  - were_hybrid
+  - werebeast
+  - wereform
+  - wereshep_hybrid
+  implications: []
+- canonical: sciurid
+  category: species
+  aliases:
+  - mobian_squirrel
+  - sciuridae
+  - squirrelgirl
+  implications:
+  - rodent
+- canonical: nordic_sled_dog
+  category: species
+  aliases:
+  - nordic_sledge_dog
+  - sled_dog
+  - sledding_dog
+  implications:
+  - spitz
+- canonical: sheep
+  category: species
+  aliases:
+  - ewe
+  - lamb
+  - mobian_sheep
+  - ovine
+  - ram
+  - sheep_boy
+  - sheeps
+  implications:
+  - caprine
+- canonical: werecanid
+  category: species
+  aliases: []
+  implications:
+  - canid
+  - werecreature
+- canonical: felid_humanoid
+  category: species
+  aliases: []
+  implications:
+  - felid
+  - mammal_humanoid
+- canonical: generation_8_pokemon
+  category: species
+  aliases:
+  - gen_8_pokemon
+  - "gen_8_pok\xE9mon"
+  - gen_eight_pokemon
+  - "gen_eight_pok\xE9mon"
+  - "generation_8_pok\xE9mon"
+  - "generation_eight_pok\xE9mon"
+  - generation_viii_pokemon
+  - "generation_viii_pok\xE9mon"
+  implications:
+  - pokemon_(species)
+- canonical: furred_scalie
+  category: species
+  aliases:
+  - furred_reptilian
+  implications:
+  - fur
+  - scalie
+- canonical: musteline
+  category: species
+  aliases:
+  - anthro_musteline
+  - mustelinae
+  implications:
+  - mustelid
+- canonical: husky
+  category: species
+  aliases:
+  - huskie
+  - huskies
+  - husky_dog
+  implications:
+  - nordic_sled_dog
+- canonical: otter
+  category: species
+  aliases:
+  - lutrinae
+  - lutrine
+  - otters
+  implications:
+  - mustelid
+- canonical: elemental_creature
+  category: species
+  aliases:
+  - earth_(elemental)
+  - earth_creature
+  - earth_elemental
+  - element_creature
+  - element_fauna
+  - elemental_(creature)
+  - elemental_fauna
+  - nature_elemental
+  implications: []
+- canonical: rat
+  category: species
+  aliases:
+  - rats
+  implications:
+  - murine
+- canonical: furred_dragon
+  category: species
+  aliases:
+  - fluff_dragon
+  - fluffy_dragon
+  - furdragon
+  - furdrake
+  - furred_dragons
+  - furry_dragon
+  - mammalian_dragon
+  implications:
+  - dragon
+  - fur
+  - furred_scalie
+- canonical: crocodilian
+  category: species
+  aliases:
+  - crocodilan
+  - crocodilia
+  - crocodillia
+  - crocodillian
+  - crocodylia
+  - crocodylian
+  - crocodyliform
+  - crocodyliforme
+  - crocodyllia
+  implications:
+  - reptile
+- canonical: feline_humanoid
+  category: species
+  aliases: []
+  implications:
+  - felid_humanoid
+  - feline
+- canonical: canid_demon
+  category: species
+  aliases: []
+  implications:
+  - canid
+  - demon
+- canonical: mythological_avian
+  category: species
+  aliases:
+  - mythical_avian
+  - mythologial_avian
+  implications:
+  - avian
+  - mythological_creature
+- canonical: hunting_dog
+  category: species
+  aliases: []
+  implications:
+  - domestic_dog
+- canonical: werecanine
+  category: species
+  aliases:
+  - werefolf
+  implications:
+  - canine
+  - werecanid
+- canonical: lucario
+  category: species
+  aliases:
+  - lucarioxhuman
+  - shiny_lucario
+  implications:
+  - generation_4_pokemon
+- canonical: ursine
+  category: species
+  aliases: []
+  implications:
+  - bear
+- canonical: hellhound
+  category: species
+  aliases:
+  - demon_dog
+  - devil_dog
+  - hell_hound
+  implications:
+  - canid_demon
+  - mythological_canine
+- canonical: mephitid
+  category: species
+  aliases:
+  - skunk_girl
+  implications:
+  - mammal
+- canonical: cat_humanoid
+  category: species
+  aliases:
+  - catgirls
+  - catian
+  - humanoid_cat
+  - neko_girl
+  - nekomimi
+  - nekomusume
+  implications:
+  - feline_humanoid
+- canonical: skunk
+  category: species
+  aliases:
+  - mobian_skunk
+  - reverse_skunk
+  - skunks
+  implications:
+  - mephitid
+- canonical: werewolf
+  category: species
+  aliases:
+  - lycanthrope
+  - were-wolf
+  - were_werewolf
+  - werevolfe
+  - werewolf_form
+  - werewolves
+  - werewuff
+  implications:
+  - mythological_canine
+  - werecanine
+- canonical: kobold
+  category: species
+  aliases:
+  - kobald
+  - kobolds
+  implications:
+  - scalie
+- canonical: canid_humanoid
+  category: species
+  aliases: []
+  implications:
+  - canid
+  - mammal_humanoid
+- canonical: theropod
+  category: species
+  aliases:
+  - megaraptora
+  - megaraptorian
+  - therapod
+  implications: []
+- canonical: primate
+  category: species
+  aliases:
+  - primates
+  implications:
+  - mammal
+- canonical: fennec_fox
+  category: species
+  aliases:
+  - desert_fox
+  - fenec
+  - fennec
+  - fennec_kitsune
+  - fennecfox
+  - fenneck
+  - fenneck_fox
+  - fennek
+  - fennic
+  - fennic_fox
+  - vulpes_zerda
+  implications:
+  - true_fox
+- canonical: canine_humanoid
+  category: species
+  aliases: []
+  implications:
+  - canid_humanoid
+  - canine
+- canonical: animatronic
+  category: species
+  aliases:
+  - aniamtronic
+  - animatronics
+  implications:
+  - robot
+- canonical: animate_inanimate
+  category: species
+  aliases:
+  - animate_object
+  - inanimate
+  - living_object
+  - male_animate_inanimate
+  - sentient_object
+  implications: []
+- canonical: suine
+  category: species
+  aliases:
+  - hog
+  - porcine
+  - procine
+  - suiforme
+  - suiformes
+  - suina
+  - swine
+  implications:
+  - mammal
+- canonical: ailurid
+  category: species
+  aliases:
+  - ailuridae
+  implications:
+  - mammal
+- canonical: red_panda
+  category: species
+  aliases:
+  - lesser_panda
+  - red-panda
+  - redpanda
+  - wah
+  implications:
+  - ailurid
+- canonical: renamon
+  category: species
+  aliases:
+  - male_renamon
+  implications:
+  - digimon_(species)
+- canonical: flora_fauna
+  category: species
+  aliases:
+  - animal_flora_hybrid
+  - animal_plant_hybrid
+  - fauna/flora
+  - fauna/plant
+  - fauna_flora
+  - fauna_plant
+  - flora/fauna
+  - flora_boy
+  - flora_elemental
+  - flora_girl
+  - grass_elemental
+  - living_flora
+  - living_plant
+  - piranha_plant_girl
+  - plant/fauna
+  - plant_boy
+  - plant_creature
+  - plant_elemental
+  - plant_fauna
+  - plant_girl
+  implications:
+  - elemental_creature
+  - plant
+- canonical: hi_res
+  category: meta
+  aliases:
+  - hd
+  - hi-res
+  - hi_def
+  - hi_resolution
+  - high-res
+  - high_definition
+  - high_res
+  - high_resolution
+  - highres
+  - hires
+  implications: []
+- canonical: digital_media_(artwork)
+  category: meta
+  aliases:
+  - artwork_(digital)
+  - digital
+  - digital-art
+  - digital_art
+  - digital_artwork
+  - digital_artworks
+  - digital_media
+  - digital_media(art)
+  - digital_media(artwork)
+  - digital_media_(art)
+  - digital_media_artwork
+  - digitalart
+  - digitalartist
+  - digitalartwork
+  - digitaldrawing
+  - digitalillustration
+  - furrydigitalartist
+  implications: []
+- canonical: absurd_res
+  category: meta
+  aliases:
+  - absurd_resolution
+  - absurd_rez
+  - absurdres
+  - aburd_res
+  - bsurd_res
+  - holy_shit_res
+  - insane_res
+  implications:
+  - hi_res
+- canonical: english_text
+  category: meta
+  aliases:
+  - english-text
+  - english_dialog
+  - english_dialogue
+  implications:
+  - text
+- canonical: '1:1'
+  category: meta
+  aliases:
+  - '4:4'
+  implications: []
+- canonical: monochrome
+  category: meta
+  aliases:
+  - colorless
+  - monochorome
+  - monochromatic
+  - monotone
+  - no_color
+  - no_colour
+  - non-colored
+  - non_coloured
+  - uncolored
+  - uncoloured
+  implications: []
+- canonical: comic
+  category: meta
+  aliases:
+  - comic_page
+  - comic_strip
+  - comics
+  - "c\xF3mic"
+  - dojin
+  - doujin
+  - doujinshi
+  - manga
+  implications: []
+- canonical: signature
+  category: meta
+  aliases:
+  - artist_signature
+  - siganture
+  - signature_artist_name
+  - signed
+  - signiture
+  - singature
+  implications: []
+- canonical: digital_drawing_(artwork)
+  category: meta
+  aliases:
+  - digital_draw
+  - digital_drawing
+  implications:
+  - digital_media_(artwork)
+- canonical: shaded
+  category: meta
+  aliases:
+  - shaded_color
+  - shading
+  implications: []
+- canonical: portrait
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '2023'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: 3d_(artwork)
+  category: meta
+  aliases:
+  - 3d
+  - 3d_art
+  - 3d_artwork
+  - 3d_model
+  - 3d_modeling
+  - 3d_render
+  - 3dart
+  - 3dcg
+  - 3dmodel
+  - bad_3d
+  - cg
+  - cgi
+  - computer_generated
+  - poser
+  - render
+  - rendering
+  implications:
+  - digital_media_(artwork)
+- canonical: '2022'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '2024'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: widescreen
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '2021'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '2025'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: animated
+  category: meta
+  aliases:
+  - anim
+  - animated_gif
+  - animation
+  - animation_art
+  - animation_nsfw
+  - badly_animated
+  - gif
+  - video
+  implications: []
+- canonical: '16:9'
+  category: meta
+  aliases:
+  - 1280x720
+  - 1366x768
+  - 1600x900
+  - 1920x1080
+  - 2400x1350
+  implications:
+  - widescreen
+- canonical: '2020'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: sketch
+  category: meta
+  aliases:
+  - black_and_white_sketch
+  - doodle
+  - doodles
+  - rough_sketch
+  - scetch
+  - sketch_art
+  - sketch_dump
+  - sketchdump
+  - sketched
+  - sketches
+  - sketching
+  implications: []
+- canonical: '2019'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '2018'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '3:4'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: colored
+  category: meta
+  aliases:
+  - coloration
+  - colorized
+  - colouration
+  - coloured
+  implications: []
+- canonical: url
+  category: meta
+  aliases:
+  - inkbunny_link
+  - kofi_link
+  - patreon_link
+  - patreon_url
+  - subscribestar_link
+  - web_address
+  - weblink
+  implications:
+  - text
+- canonical: '2017'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: '2016'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: artist_name
+  category: meta
+  aliases: []
+  implications:
+  - text
+- canonical: '4:3'
+  category: meta
+  aliases:
+  - 1024x768
+  - 1280x960
+  - 1600x1200
+  - 2000x1500
+  - 2048x1536
+  - 800x600
+  implications: []
+- canonical: full-length_portrait
+  category: meta
+  aliases:
+  - full-body_
+  - full-body_portrait
+  - full_body
+  - full_body_
+  - full_body_portrait
+  - full_length_portrait
+  - full_portrait
+  - fullbody
+  implications:
+  - portrait
+- canonical: japanese_text
+  category: meta
+  aliases:
+  - hiragana
+  - japanese_language
+  - japanese_writing
+  implications:
+  - text
+- canonical: webm
+  category: meta
+  aliases: []
+  implications: []
+- canonical: alpha_channel
+  category: meta
+  aliases:
+  - alpha_layer
+  implications: []
+- canonical: '2015'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: greyscale
+  category: meta
+  aliases:
+  - gray_and_white
+  - gray_scale
+  - grayscale
+  - grey_and_white
+  - grey_scale
+  implications:
+  - monochrome
+- canonical: watermark
+  category: meta
+  aliases:
+  - water_mark
+  - water_marks
+  - watermarked
+  - watermarks
+  implications: []
+- canonical: traditional_media_(artwork)
+  category: meta
+  aliases:
+  - artwork_(traditional)
+  - hand_drawn
+  - scanned
+  - traditional
+  - traditional_(artwork)
+  - traditional_art
+  - traditional_artwork
+  - traditional_drawing
+  - traditional_drawing_(artwork)
+  - traditional_media
+  - traditional_media_artwork
+  - traditionalart
+  - tradtional
+  implications: []
+- canonical: black_and_white
+  category: meta
+  aliases:
+  - b&w
+  - b/w
+  - baw
+  - black/white
+  - black_&_white
+  - black_and_whtie
+  - white/black
+  - white_and_black
+  implications:
+  - monochrome
+- canonical: '2014'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: 3d_animation
+  category: meta
+  aliases:
+  - 3-dimension_animated
+  - 3-dimension_animation
+  - 3-dimensional_animated
+  - 3-dimensional_animation
+  - 3_dimension_animated
+  - 3_dimension_animation
+  - 3_dimensional_animated
+  - 3_dimensional_animation
+  - 3d_animated
+  - 3d_computer_animated
+  - 3d_computer_animation
+  - cg_animated
+  - cg_animation
+  - cgi_animated
+  - cgi_animation
+  - three-dimension_animated
+  - three-dimension_animation
+  - three-dimensional_animated
+  - three-dimensional_animation
+  - three_dimension_animated
+  - three_dimension_animation
+  - three_dimensional_animated
+  - three_dimensional_animation
+  implications:
+  - 3d_(artwork)
+  - animated
+- canonical: short_playtime
+  category: meta
+  aliases:
+  - <30_second_webm
+  implications:
+  - animated
+- canonical: censored
+  category: meta
+  aliases:
+  - cencored
+  - censor
+  - censoring
+  - censorship
+  - paywall_tease
+  implications: []
+- canonical: three-quarter_portrait
+  category: meta
+  aliases:
+  - 3/4_portrait
+  - cowboy_shot
+  - three_quarter_portrait
+  implications:
+  - portrait
+- canonical: '4:5'
+  category: meta
+  aliases: []
+  implications: []
+- canonical: meme
+  category: meta
+  aliases:
+  - memes
+  - spongebob_memes
+  implications: []
+- canonical: 2d_animation
+  category: meta
+  aliases:
+  - 2-dimension_animated
+  - 2-dimension_animation
+  - 2-dimensional_animated
+  - 2-dimensional_animation
+  - 2_dimension_animated
+  - 2_dimension_animation
+  - 2_dimensional_animated
+  - 2_dimensional_animation
+  - 2d_animated
+  - 2d_computer_animated
+  - 2d_computer_animation
+  - two-dimension_animated
+  - two-dimension_animation
+  - two-dimensional_animated
+  - two-dimensional_animation
+  - two_dimension_animated
+  - two_dimension_animation
+  - two_dimensional_animated
+  - two_dimensional_animation
+  implications:
+  - animated
+- canonical: fan_character
+  category: character
+  aliases:
+  - fan-character
+  - fan_characters
+  - fancharacter
+  - fc
+  - oc_pony
+  - original_the_character
+  - poke_sona
+  - pokemon_oc
+  - pokesona
+  - pokesonas
+  - ponysona
+  - sonic_fan_character
+  - sonic_fancharacter
+  implications: []
+- canonical: twilight_sparkle_(mlp)
+  category: character
+  aliases:
+  - dusk_shine_(mlp)
+  - princess_twilight_sparkle_(mlp)
+  - twi_staff
+  - twilght_sparkle_(mlp)
+  - twilight_sparke_(mlp)
+  - twilight_sparkle
+  - twiligth_sparkle_(mlp)
+  - twlight_sparkle_(mlp)
+  implications:
+  - friendship_is_magic
+- canonical: judy_hopps
+  category: character
+  aliases:
+  - judyhopps
+  implications:
+  - zootopia
+- canonical: fluttershy_(mlp)
+  category: character
+  aliases:
+  - butterscotch_(mlp)
+  - flutterguy
+  - flutterguy_(mlp)
+  - fluttershy
+  - futashy
+  - futashy_(mlp)
+  - psychoshy_(mlp)
+  implications:
+  - friendship_is_magic
+- canonical: rouge_the_bat
+  category: character
+  aliases:
+  - rogue_the_bat
+  - rouge_outfit
+  - rouge_the_bat_outfit
+  - tan_rouge
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: nick_wilde
+  category: character
+  aliases:
+  - nick_wilde_(bikini)
+  - nickini
+  - nickwilde
+  implications:
+  - zootopia
+- canonical: rainbow_dash_(mlp)
+  category: character
+  aliases:
+  - rainbow_blitz_(mlp)
+  - rainbow_dash
+  - tatzldash
+  implications:
+  - friendship_is_magic
+- canonical: loona_(helluva_boss)
+  category: character
+  aliases:
+  - cosplay_loona_(helluva_boss)
+  - loona_(vivzmind)
+  implications:
+  - helluva_boss
+- canonical: rarity_(mlp)
+  category: character
+  aliases:
+  - elusive_(mlp)
+  - lil_miss_rarity
+  - rarity
+  implications:
+  - friendship_is_magic
+- canonical: sonic_the_hedgehog
+  category: character
+  aliases:
+  - sonic_(character)
+  - sonic_(sonic)
+  - sonica_(sonic)
+  - sonica_the_hedgehog
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: pinkie_pie_(mlp)
+  category: character
+  aliases:
+  - bubble_berry_(mlp)
+  - kinky_pie
+  - pinkie_pie
+  - pinky_pie
+  - pinky_pie_(mlp)
+  implications:
+  - friendship_is_magic
+- canonical: amy_rose
+  category: character
+  aliases:
+  - amy_rose_(highwizard)
+  - amy_rouge
+  - amy_the_hedgehog
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: applejack_(mlp)
+  category: character
+  aliases:
+  - apple_jack
+  - apple_jack_(mlp)
+  - applejack
+  - applelion_(mlp)
+  - tatzljack
+  implications:
+  - friendship_is_magic
+- canonical: princess_celestia_(mlp)
+  category: character
+  aliases:
+  - celestia
+  - celestia_(mlp)
+  - char_princess_celestia_(mlp)
+  - prince_malestia_(mlp)
+  - princess_celestia
+  - princess_trollestia_(mlp)
+  - solaris_(mlp)
+  - sunbutt
+  - trollestia
+  - trollestia_(mlp)
+  implications:
+  - friendship_is_magic
+- canonical: miles_prower
+  category: character
+  aliases:
+  - melissa_"tailsko"_prower
+  - miles_"tails"_prower
+  - miles_tails_prower
+  - millie_prower
+  - tails_(sonic)
+  - tails_(sonic_the_hedgehog)
+  - tails_the_fox
+  - tails_the_kitsune
+  - tailsko
+  - tailsko_(sonic)
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: princess_luna_(mlp)
+  category: character
+  aliases:
+  - luna_(mlp)
+  - lunaughty
+  - prince_artemis_(mlp)
+  - princess_luna
+  - trolluna
+  - trolluna_(mlp)
+  - woona
+  implications:
+  - friendship_is_magic
+- canonical: toriel
+  category: character
+  aliases:
+  - goat_mom
+  - goatmom
+  implications:
+  - undertale_(series)
+- canonical: krystal_(star_fox)
+  category: character
+  aliases:
+  - krystal_(highwizard)
+  - krystal_(starfox)
+  implications: []
+- canonical: isabelle_(animal_crossing)
+  category: character
+  aliases:
+  - bully_isabelle
+  - isabelle_(highwizard)
+  - shizue
+  - shizue_(animal_crossing)
+  - shizue_(doubutsu_no_mori)
+  implications:
+  - animal_crossing
+- canonical: bowser
+  category: character
+  aliases:
+  - female_bowser
+  implications:
+  - mario_bros
+- canonical: fox_mccloud
+  category: character
+  aliases:
+  - fox_mcloud
+  - fox_on_top
+  implications: []
+- canonical: spike_(mlp)
+  category: character
+  aliases:
+  - barb_(mlp)
+  - barb_the_dragon_(mlp)
+  - barbara_(mlp)
+  - barbara_the_dragon_(mlp)
+  - barbra_(mlp)
+  - barbra_the_dragon_(mlp)
+  - feral_spike
+  - feral_spike_(mlp)
+  - spike_(my_little_pony)
+  implications:
+  - friendship_is_magic
+- canonical: blaze_the_cat
+  category: character
+  aliases: []
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: ankha_(animal_crossing)
+  category: character
+  aliases:
+  - ankha
+  implications:
+  - animal_crossing
+- canonical: anon
+  category: character
+  aliases: []
+  implications: []
+- canonical: shadow_the_hedgehog
+  category: character
+  aliases:
+  - shadina_(sonic)
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: legoshi_(beastars)
+  category: character
+  aliases:
+  - legoshi
+  - legosi_(beastars)
+  implications: []
+- canonical: foxy_(fnaf)
+  category: character
+  aliases:
+  - female_foxy_(fnaf)
+  - foxy_the_pirate
+  - foxy_the_pirate_fox
+  implications:
+  - five_nights_at_freddy's
+- canonical: cream_the_rabbit
+  category: character
+  aliases: []
+  implications:
+  - sonic_the_hedgehog_(series)
+- canonical: queen_chrysalis_(mlp)
+  category: character
+  aliases:
+  - chrysalis_(mlp)
+  - queen_chrysalis
+  implications:
+  - friendship_is_magic
+- canonical: ralsei
+  category: character
+  aliases: []
+  implications: []
+- canonical: susie_(deltarune)
+  category: character
+  aliases: []
+  implications: []
+- canonical: nintendo
+  category: copyright
+  aliases: []
+  implications: []
+- canonical: mythology
+  category: copyright
+  aliases:
+  - classical_mythology
+  - folklore
+  - mithology
+  - myth
+  - mythological
+  implications: []
+- canonical: pokemon
+  category: copyright
+  aliases:
+  - alola
+  - big_pokemon
+  - "big_pok\xE9mon"
+  - bug_pokemon
+  - "bug_pok\xE9mon"
+  - bug_type_pokemon
+  - "bug_type_pok\xE9mon"
+  - bug_typed_pokemon
+  - "bug_typed_pok\xE9mon"
+  - dark_pokemon
+  - "dark_pok\xE9mon"
+  - dark_type_pokemon
+  - "dark_type_pok\xE9mon"
+  - dark_typed_pokemon
+  - "dark_typed_pok\xE9mon"
+  - dragon_pokemon
+  - "dragon_pok\xE9mon"
+  - dragon_type_pokemon
+  - "dragon_type_pok\xE9mon"
+  - dragon_typed_pokemon
+  - "dragon_typed_pok\xE9mon"
+  - electric_pokemon
+  - "electric_pok\xE9mon"
+  - electric_type
+  - electric_type_pokemon
+  - "electric_type_pok\xE9mon"
+  - electric_typed_pokemon
+  - "electric_typed_pok\xE9mon"
+  - fairy_pokemon
+  - "fairy_pok\xE9mon"
+  - fairy_type_pokemon
+  - "fairy_type_pok\xE9mon"
+  - fairy_typed_pokemon
+  - "fairy_typed_pok\xE9mon"
+  - fat_pokemon
+  - "fat_pok\xE9mon"
+  - fighting_pokemon
+  - "fighting_pok\xE9mon"
+  - fighting_type_pokemon
+  - "fighting_type_pok\xE9mon"
+  - fighting_typed_pokemon
+  - "fighting_typed_pok\xE9mon"
+  - fire_pokemon
+  - "fire_pok\xE9mon"
+  - fire_type
+  - fire_type_pokemon
+  - "fire_type_pok\xE9mon"
+  - fire_typed_pokemon
+  - "fire_typed_pok\xE9mon"
+  - flying_pokemon
+  - "flying_pok\xE9mon"
+  - flying_type_pokemon
+  - "flying_type_pok\xE9mon"
+  - flying_typed_pokemon
+  - "flying_typed_pok\xE9mon"
+  - galar
+  - ghost_pokemon
+  - "ghost_pok\xE9mon"
+  - ghost_type_pokemon
+  - "ghost_type_pok\xE9mon"
+  - ghost_typed_pokemon
+  - "ghost_typed_pok\xE9mon"
+  - giant_pokemon
+  - "giant_pok\xE9mon"
+  - grass_pokemon
+  - "grass_pok\xE9mon"
+  - grass_type_pokemon
+  - "grass_type_pok\xE9mon"
+  - grass_typed_pokemon
+  - "grass_typed_pok\xE9mon"
+  - ground_pokemon
+  - "ground_pok\xE9mon"
+  - ground_type_pokemon
+  - "ground_type_pok\xE9mon"
+  - ground_typed_pokemon
+  - "ground_typed_pok\xE9mon"
+  - hoenn
+  - ice_pokemon
+  - "ice_pok\xE9mon"
+  - ice_type_pokemon
+  - "ice_type_pok\xE9mon"
+  - ice_typed_pokemon
+  - "ice_typed_pok\xE9mon"
+  - johto
+  - kalos
+  - kanto
+  - kantonian
+  - normal_pokemon
+  - "normal_pok\xE9mon"
+  - normal_type_pokemon
+  - "normal_type_pok\xE9mon"
+  - normal_typed_pokemon
+  - "normal_typed_pok\xE9mon"
+  - pkmn
+  - pkmnart
+  - pkmnfanart
+  - pocket_monster
+  - pocket_monsters
+  - poison_pokemon
+  - "poison_pok\xE9mon"
+  - poison_type_pokemon
+  - "poison_type_pok\xE9mon"
+  - poison_typed_pokemon
+  - "poison_typed_pok\xE9mon"
+  - pokemin
+  - pokemmon
+  - pokemo
+  - pokemon_(game)
+  - pokemon_character
+  - pokemon_company
+  - pokemon_evolutions
+  - pokemon_fanart
+  - pokemon_number
+  - pokemon_poster
+  - pokemon_red_green_blue_&_yellow
+  - pokemon_s/s
+  - pokemon_scarlet
+  - pokemon_scarlet_and_violet
+  - pokemon_shield
+  - pokemon_sun_and_moon
+  - pokemon_sv
+  - pokemon_sword
+  - pokemon_sword_and_shield
+  - pokemon_swsh
+  - pokemon_theme
+  - pokemon_violet
+  - pokemonart
+  - pokemonfanart
+  - pokemonshield
+  - pokemonsword
+  - pokeporn
+  - "pok\xE9mon"
+  - "pok\xE9mon_(game)"
+  - "pok\xE9mon_anime"
+  - "pok\xE9mon_company"
+  - "pok\xE9mon_evolutions"
+  - "pok\xE9mon_gsc"
+  - "pok\xE9mon_number"
+  - "pok\xE9mon_poster"
+  - "pok\xE9mon_red_green_blue_&_yellow"
+  - "pok\xE9mon_rgby"
+  - "pok\xE9mon_rse"
+  - "pok\xE9mon_s/s"
+  - "pok\xE9mon_scarlet"
+  - "pok\xE9mon_scarlet_and_violet"
+  - "pok\xE9mon_shield"
+  - "pok\xE9mon_sv"
+  - "pok\xE9mon_sword"
+  - "pok\xE9mon_sword_and_shield"
+  - "pok\xE9mon_swsh"
+  - "pok\xE9mon_violet"
+  - "pok\xE9monshield"
+  - "pok\xE9monsword"
+  - porkyman
+  - psychic_pokemon
+  - "psychic_pok\xE9mon"
+  - psychic_type_pokemon
+  - "psychic_type_pok\xE9mon"
+  - psychic_typed_pokemon
+  - "psychic_typed_pok\xE9mon"
+  - rock_pokemon
+  - "rock_pok\xE9mon"
+  - rock_type_pokemon
+  - "rock_type_pok\xE9mon"
+  - rock_typed_pokemon
+  - "rock_typed_pok\xE9mon"
+  - sinnoh
+  - starter_pokemon
+  - "starter_pok\xE9mon"
+  - steel_pokemon
+  - "steel_pok\xE9mon"
+  - steel_type_pokemon
+  - "steel_type_pok\xE9mon"
+  - steel_typed_pokemon
+  - "steel_typed_pok\xE9mon"
+  - too_many_pokemon
+  - too_many_pokemons
+  - "too_many_pok\xE9mon"
+  - "too_many_pok\xE9mons"
+  - unova
+  - water_pokemon
+  - "water_pok\xE9mon"
+  - water_type_pokemon
+  - "water_type_pok\xE9mon"
+  - water_typed_pokemon
+  - "water_typed_pok\xE9mon"
+  implications:
+  - nintendo
+- canonical: hasbro
+  category: copyright
+  aliases:
+  - hasbro_(copyright)
+  - hasbro_bradley
+  - hasbro_entertainment
+  - hasbro_entertainment_and_licensing
+  - hasbro_gaming
+  - hasbro_inc
+  - hasbro_inc.
+  - hasbro_incorporated
+  - hasbro_industries
+  - hasbro_industry
+  implications: []
+- canonical: my_little_pony
+  category: copyright
+  aliases:
+  - (mlp)
+  - missing_cutie_mark
+  - mlp
+  - my_little_pony_nsfw
+  - mylittlepony
+  implications:
+  - hasbro
+- canonical: friendship_is_magic
+  category: copyright
+  aliases:
+  - fim
+  - generation_4
+  - mane_six
+  - mlp:fim
+  - mlp_fim
+  - mlpfim
+  - my_little_pony:_friendship_is_magic
+  - my_little_pony_(friendship_is_magic)
+  - my_little_pony_friendship_is_magic
+  implications:
+  - my_little_pony
+- canonical: disney
+  category: copyright
+  aliases: []
+  implications: []
+- canonical: sega
+  category: copyright
+  aliases:
+  - sega_corporation
+  - sega_enterprises
+  - sega_enterprises_limited
+  - sega_enterprises_ltd
+  - sega_enterprises_ltd.
+  - sega_games
+  - sega_games_co._limited
+  - sega_games_co._ltd
+  - sega_games_co._ltd.
+  - sega_games_co_limited
+  - sega_games_co_ltd
+  - sega_games_co_ltd.
+  - sega_games_company_limited
+  - sega_games_company_ltd
+  - sega_games_company_ltd.
+  implications: []
+- canonical: sonic_the_hedgehog_(series)
+  category: copyright
+  aliases:
+  - chaotix
+  - knuckles'_chaotix
+  - knuckles_chaotix
+  - mobian
+  - mobian_(species)
+  - mobian_species
+  - mobians
+  - sonic
+  - sonic(series)
+  - sonic_&_knuckles
+  - sonic_(lost_world)
+  - sonic_(series)
+  - sonic_(species)
+  - sonic_and_knuckles
+  - sonic_cd
+  - sonic_characters
+  - sonic_generations
+  - sonic_heroes
+  - sonic_lost_world
+  - sonic_mega_collection
+  - sonic_oc
+  - sonic_r
+  - sonic_rivals
+  - sonic_rush
+  - sonic_rush_adventure
+  - sonic_series
+  - sonic_spinball
+  - sonic_style
+  - sonic_team
+  - sonic_the_hedgehog_(copyright)
+  - sonic_the_hedgehog_(franchise)
+  - sonic_the_hedgehog_series
+  - sonic_universe
+  - sonic_{series)
+  implications:
+  - sega
+- canonical: european_mythology
+  category: copyright
+  aliases: []
+  implications:
+  - mythology
+- canonical: undertale_(series)
+  category: copyright
+  aliases: []
+  implications: []
+- canonical: bandai_namco
+  category: copyright
+  aliases:
+  - bandai
+  - namco
+  - namco_bandai
+  implications: []
+- canonical: digimon
+  category: copyright
+  aliases:
+  - digimon_adventure_tri
+  - digimon_tamers
+  - digimon_universe:_appli_monsters
+  - tamers
+  implications:
+  - bandai_namco
+- canonical: zootopia
+  category: copyright
+  aliases:
+  - zoomania
+  - zootopia+
+  - zootopia:_crime_files
+  - zootopia_2
+  - zootopie
+  - zootropolis
+  implications:
+  - disney
+- canonical: animal_crossing
+  category: copyright
+  aliases:
+  - ac:nh
+  - acnh
+  - acnl
+  - animal_crossing:_amiibo_festival
+  - animal_crossing:_new_horizon
+  - animal_crossing:_new_horizons
+  - animal_crossing:_new_leaf
+  - animal_crossing:_the_movie
+  - animal_crossing_new_horizon
+  - animal_crossing_new_horizons
+  - animal_crossing_new_leaf
+  - animal_crossing_pocket_camp
+  - doubutsu_no_mori
+  implications:
+  - nintendo
+- canonical: hellaverse
+  category: copyright
+  aliases: []
+  implications: []
+- canonical: helluva_boss
+  category: copyright
+  aliases: []
+  implications:
+  - hellaverse
+- canonical: scottgames
+  category: copyright
+  aliases: []
+  implications: []
+- canonical: five_nights_at_freddy's
+  category: copyright
+  aliases:
+  - (fnaf)
+  - five_nights_at_freddys
+  - fivenightsatfreddys
+  - fnaf
+  implications:
+  - scottgames
+- canonical: microsoft
+  category: copyright
+  aliases:
+  - microsoft_corporation
+  implications: []
+- canonical: mario_bros
+  category: copyright
+  aliases:
+  - mario_(series)
+  - mario_bros.
+  - mario_bros_(series)
+  - mario_brothers
+  - new_super_mario_bros
+  - super_mario
+  - super_mario_bros
+  - super_mario_bros.
+  - super_mario_bros_2
+  - super_mario_bros_3
+  - super_mario_brothers
+  implications:
+  - nintendo
+- canonical: undertale
+  category: copyright
+  aliases:
+  - undertail
+  implications:
+  - undertale_(series)
+- canonical: christmas
+  category: copyright
+  aliases:
+  - chrismas
+  - christmas_2023
+  - christmas_2024
+  - christmas_themed
+  - x-mas
+  - xmas
+  implications: []
+- canonical: cartoon_network
+  category: copyright
+  aliases:
+  - cartoon-network
+  - cartoonnetwork
+  - cn_(network)
+  implications: []
+- canonical: incest_(lore)
+  category: lore
+  aliases:
+  - after_incest
+  - family_group_sex
+  - family_sex
+  - incest
+  - incestuous
+  - turtlecest
+  - wincest
+  implications: []
+- canonical: sibling_(lore)
+  category: lore
+  aliases:
+  - sibling
+  - siblings
+  implications: []
+- canonical: parent_(lore)
+  category: lore
+  aliases:
+  - parent
+  - parents
+  implications: []
+- canonical: parent_and_child_(lore)
+  category: lore
+  aliases:
+  - child_and_parent
+  - parent_and_child
+  implications:
+  - parent_(lore)
+- canonical: trans_(lore)
+  category: lore
+  aliases:
+  - trans
+  - transgender
+  - transgender_(lore)
+  - transgendered
+  implications: []
+- canonical: sister_(lore)
+  category: lore
+  aliases:
+  - sister
+  implications:
+  - sibling_(lore)
+- canonical: brother_(lore)
+  category: lore
+  aliases:
+  - brother
+  implications:
+  - sibling_(lore)
+- canonical: mother_(lore)
+  category: lore
+  aliases:
+  - mom
+  - moms
+  - mother
+  - mothers
+  implications:
+  - parent_(lore)
+- canonical: son_(lore)
+  category: lore
+  aliases:
+  - son
+  implications: []
+- canonical: parent_and_son_(lore)
+  category: lore
+  aliases:
+  - parent_and_son
+  implications:
+  - parent_and_child_(lore)
+  - son_(lore)
+- canonical: mother_and_child_(lore)
+  category: lore
+  aliases:
+  - child/mother
+  - child_and_mother
+  - child_mother
+  - mother/child
+  - mother_and_child
+  - mother_child
+  implications:
+  - mother_(lore)
+  - parent_and_child_(lore)
+- canonical: father_(lore)
+  category: lore
+  aliases:
+  - dad
+  - father
+  - two_dads
+  implications:
+  - parent_(lore)
+- canonical: trans_woman_(lore)
+  category: lore
+  aliases:
+  - trans_female
+  - trans_female_(lore)
+  - trans_feminine
+  - trans_girl
+  - trans_woman
+  - transfem
+  - transfemale
+  - transfeminine
+  - transfemme
+  - transgender_female
+  - transgender_girl
+  - transgender_woman
+  - transgirl
+  - transwoman
+  implications:
+  - trans_(lore)
+- canonical: father_and_child_(lore)
+  category: lore
+  aliases:
+  - child/father
+  - child_and_father
+  - child_father
+  - father/child
+  - father_and_child
+  - father_child
+  - father_penetrating_child
+  implications:
+  - father_(lore)
+  - parent_and_child_(lore)
+- canonical: male_(lore)
+  category: lore
+  aliases: []
+  implications: []
+- canonical: nonbinary_(lore)
+  category: lore
+  aliases:
+  - enby
+  - non-binary
+  - non-binary_(lore)
+  - non_binary
+  - non_binary_(lore)
+  - nonbinary
+  - nonbinary_gender
+  implications: []

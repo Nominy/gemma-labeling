@@ -1,0 +1,128 @@
+tags:
+  - canonical: 1girl
+    category: subject
+    aliases: [one_girl, female]
+  - canonical: 1boy
+    category: subject
+    aliases: [one_boy, male]
+  - canonical: outdoors
+    category: setting
+    aliases: [outside]
+    exclusions: [indoors]
+  - canonical: indoors
+    category: setting
+    aliases: [inside]
+    exclusions: [outdoors]
+  - canonical: solo
+    category: composition
+    aliases: [single_subject]
+    prerequisites: [1girl]
+  - canonical: portrait
+    category: composition
+    prerequisites: [1girl]
+  - canonical: close_up
+    category: composition
+    aliases: [closeup]
+    prerequisites: [portrait]
+  - canonical: full_body
+    category: composition
+    prerequisites: [1girl]
+    exclusions: [close_up]
+  - canonical: long_hair
+    category: hair
+    prerequisites: [1girl]
+    exclusions: [short_hair]
+  - canonical: short_hair
+    category: hair
+    prerequisites: [1girl]
+    exclusions: [long_hair, twintails]
+  - canonical: twintails
+    category: hair
+    prerequisites: [long_hair]
+  - canonical: black_hair
+    category: hair_color
+    prerequisites: [1girl]
+    exclusions: [blonde_hair, blue_hair]
+  - canonical: blonde_hair
+    category: hair_color
+    prerequisites: [1girl]
+    exclusions: [black_hair, blue_hair]
+  - canonical: blue_hair
+    category: hair_color
+    prerequisites: [1girl]
+    exclusions: [black_hair, blonde_hair]
+  - canonical: blue_eyes
+    category: eyes
+    prerequisites: [1girl]
+    exclusions: [green_eyes, red_eyes]
+  - canonical: green_eyes
+    category: eyes
+    prerequisites: [1girl]
+    exclusions: [blue_eyes, red_eyes]
+  - canonical: red_eyes
+    category: eyes
+    prerequisites: [1girl]
+    exclusions: [blue_eyes, green_eyes]
+  - canonical: smile
+    category: expression
+    prerequisites: [solo]
+  - canonical: blush
+    category: expression
+    prerequisites: [solo]
+  - canonical: glasses
+    category: accessory
+    prerequisites: [1girl]
+  - canonical: animal_ears
+    category: accessory
+    prerequisites: [1girl]
+  - canonical: cat_tail
+    category: accessory
+    prerequisites: [animal_ears]
+  - canonical: paw_pose
+    category: pose
+    prerequisites: [animal_ears]
+  - canonical: looking_at_viewer
+    category: pose
+    prerequisites: [solo]
+  - canonical: sitting
+    category: pose
+    prerequisites: [1girl]
+    exclusions: [standing]
+  - canonical: standing
+    category: pose
+    prerequisites: [1girl]
+    exclusions: [sitting]
+  - canonical: holding_flower
+    category: pose
+    prerequisites: [1girl]
+  - canonical: school_uniform
+    category: attire
+    prerequisites: [1girl]
+    exclusions: [maid_outfit, kimono, swimsuit]
+  - canonical: maid_outfit
+    category: attire
+    prerequisites: [1girl]
+    exclusions: [school_uniform, kimono, swimsuit]
+  - canonical: kimono
+    category: attire
+    prerequisites: [1girl]
+    exclusions: [school_uniform, maid_outfit, swimsuit]
+  - canonical: swimsuit
+    category: attire
+    prerequisites: [1girl, outdoors]
+    exclusions: [school_uniform, maid_outfit, kimono]
+  - canonical: classroom
+    category: location
+    prerequisites: [indoors, school_uniform]
+  - canonical: beach
+    category: location
+    prerequisites: [outdoors, swimsuit]
+  - canonical: cherry_blossoms
+    category: location
+    prerequisites: [outdoors]
+  - canonical: sunset
+    category: lighting
+    prerequisites: [outdoors]
+  - canonical: night_sky
+    category: lighting
+    prerequisites: [outdoors]
